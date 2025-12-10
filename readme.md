@@ -3,8 +3,6 @@
 # Relay Machine - 4-bit Computer Made of Relays
 
 ## Project Overview
-![Image of the Relay Machine](./pics/)  
-*Photo of finished project*
 
 This project implements a very simple 4-bit computer architecture 
 
