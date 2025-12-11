@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=ALU.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=ALU.SchDoc|Designator=U_ANDOR4|SchDesignator=U_ANDOR4|FileName=ANDOR4.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=ANDOR4.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=ALU.SchDoc|FileName=Mux2.SchDoc|SheetNumber=3
