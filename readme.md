@@ -65,7 +65,7 @@ Using a 24V 0.15W relay [J104D2C24VDC.15S](https://www.digikey.ca/en/products/de
 | 0100           | 0000       | 0000          | 
 | 0101           | dddd       | rrrr          | SUB: Rd ← Rd - Rr |
 | 0110           | dddd       | rrrr          | XOR: Rd ← Rd x Rr |
-| 0111           | 0000       | 0000          | LS:  Rd ← Rd x Rr
+| 0111           | 0000       | 0000          | LS:  Rd ← Rd <<>> 1
 | 1000           | kkkk       | kkkk          | JMP: PC ← PC + k + 1 |
 | 1001           | dddd       | kkkk          | LDI: Rd ← K
 | 1010           | 0000       | 0000          | 
