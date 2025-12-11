@@ -85,7 +85,7 @@ OUTPUT: 2x 4-bit buses containing the outputs from the math
 
 ### Adder
 ![Full Adder](./pics/fullAdder.png)
-*One bit adder circuit*
+*One bit adder circuit* [Source](https://www.build-electronic-circuits.com/full-adder/)
 
 We will utilze 4 of these modules to add the 4-bit input in a ripple carry topology
 
@@ -100,3 +100,33 @@ Output for both Left and Right shift should be outputed on the Top and Bottom wo
 ### MUXs
 Relays themselves act as MUXes 
 
+
+## Program Memory
+
+Rough Plan is to use a bunch of dipswitches to manual program in each line of OP-Codes
+
+
+## Registers
+
+General Structure will follow this read write topology
+![Addressable Read Register](./pics/Addressable_register_read_mux.jpg)
+*Addressable Read Register* [Source](https://en.wikipedia.org/wiki/Hardware_register)
+
+![Addressable Write Register](./pics/Addressable_register_write.jpg)
+*Addressable Write Register* [Source](https://en.wikipedia.org/wiki/Hardware_register)
+
+![D Flip Flop](./pics/Dflipflop-Master-Slave-edge-triggered-1.png)
+*D Flip Flop NAND Based Circuit* [Source](https://www.build-electronic-circuits.com/d-flip-flop/)
+
+In the front of the latches the D&CLK and the D'&CLK can be achieved in one relay using the AB and AB' structure where A=CLK and B=D
+
+or an alternative structure could be the NOR version
+![NOR Based Flip Flop](./pics/d-transparent-latch-nor.png)
+*D Flip Flop NOR Based Circuit* [Source](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
+
+or potentially switch the SR latch part to an AND-OR latch
+![AND-OR SR Latch](./pics/RS-and-or-flip-flop.png)
+*AND-OR SR Latch Circuit* [Very Good Source](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
+
+
+Based on the Flip Flop structure it is likely to require at least 10
