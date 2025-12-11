@@ -127,7 +127,9 @@ or an alternative structure could be the NOR version
 *D Flip Flop NOR Based Circuit* [Source](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 
 or potentially switch the SR latch part to an AND-OR latch
+
 ![AND-OR SR Latch](./pics/RS-and-or-flip-flop.png)
+
 *AND-OR SR Latch Circuit* [Very Good Source](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 
 
