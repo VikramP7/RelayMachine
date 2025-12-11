@@ -103,7 +103,9 @@ Relays themselves act as MUXes
 
 ## Program Memory
 
-Rough Plan is to use a bunch of dipswitches to manual program in each line of OP-Codes
+Rough Plan is to use a bunch of dipswitches to manual program in each line of OP-Codes 
+
+Along with a big MUX to then select which opcode line we are at based on the Program counter (PC)
 
 
 ## Registers
