@@ -19,7 +19,7 @@ Using a 24V 0.15W relay [J104D2C24VDC.15S](https://www.digikey.ca/en/products/de
 
 ## Gate Implementations with Relay
 ![NOT Gate](./pics/NOT_A'.jpg)
-*AND Gate Y=A'*
+*NOT Gate Y=A'*
 
 ![AND Gate](./pics/AND_AB_AB'.jpg)
 *AND Gate Y1=AB and Y2=AB'*
@@ -32,7 +32,6 @@ Using a 24V 0.15W relay [J104D2C24VDC.15S](https://www.digikey.ca/en/products/de
 
 ![XOR AND Gate](./pics/XOR_AND_C(AxB).jpg)
 *XOR AND and XNOR AND Gate Y1=C(AxB) and Y2=C(AxB)'*
-
 
 
 ## OP-Codes
@@ -69,13 +68,35 @@ Using a 24V 0.15W relay [J104D2C24VDC.15S](https://www.digikey.ca/en/products/de
 | 0111           | 0000       | 0000          | LS:  Rd ← Rd x Rr
 | 1000           | kkkk       | kkkk          | JMP: PC ← PC + k + 1 |
 | 1001           | dddd       | kkkk          | LDI: Rd ← K
-| 1010           | 0000       | 0000          |
+| 1010           | 0000       | 0000          | 
 | 1011           | dddd       | rrrr          | MOV: Rd ← Rr
 | 1100           | kkkk       | kkkk          | BRGE: PC ← PC + k + 1 |
 | 1101           | kkkk       | kkkk          | BREQ: PC ← PC + k + 1 |
-| 1110           | 0000       | 0000          |
-| 1111           | 0000       | 0000          |
+| 1110           | 0000       | 0000          | 
+| 1111           | 0000       | 0000          | 
 
 
+## ALU Design
+INPUT: 2x 4-bit buses containing the values that will be mathed
 
+CONTROL: OP-Code control lines to select which math to be done 
+
+OUTPUT: 2x 4-bit buses containing the outputs from the math
+
+### Adder
+![Full Adder](./pics/fullAdder.png)
+*One bit adder circuit*
+
+We will utilze 4 of these modules to add the 4-bit input in a ripple carry topology
+
+### AND/OR
+Utilzize only 4 relays to do both the AND and the OR operations
+
+### Shifters
+Should not need any gates other than MUXes for outputs
+
+Output for both Left and Right shift should be outputed on the Top and Bottom words of the output of the ALU
+
+### MUXs
+Relays themselves act as MUXes 
 
