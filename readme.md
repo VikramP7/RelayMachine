@@ -7,11 +7,58 @@
 This project implements a very simple 4-bit computer architecture 
 
 ## Systems Overview
+-   ALU (computes numbers)
+-   Program Memory (the program with program counter)
+-   Registers
+-   Display
 
 
 ## Relays
+Using a 24V 0.15W relay [J104D2C24VDC.15S](https://www.digikey.ca/en/products/detail/cit-relay-and-switch/J104D2C24VDC-15S/12502730)
 
 
+## Gate Implementations with Relay
+
+
+## OP-Codes
+
+ADD  (addition)
+SUB  (subtraction)
+AND  (bitwise AND)
+OR   (bitwise OR)
+XOR  (bitwise exclusive OR)
+LS   (Logic shift both ways)
+
+LDI  (Load immediate)
+MOV  (Move data from reg to reg)
+
+BRGE (branch if greater or equal)
+BREQ (branch if equal)
+JMP  (jump program counter)
+
+NOP  (No Operation)
+
+
+
+
+| OpCode [3:0]   | Top [3:0]  | Bottom [3:0]  | Description       |
+| -------------- | ---------- | ------------- | ----------------- |
+| 0000           | 0000       | 0000          | NOP: No Operation |
+| 0001           | dddd       | rrrr          | ADD: Rd ← Rd + Rr |
+| 0010           | dddd       | rrrr          | AND: Rd ← Rd & Rr |
+| 0011           | dddd       | rrrr          | OR:  Rd ← Rd o Rr |
+| 0100           | 0000       | 0000          | 
+| 0101           | dddd       | rrrr          | SUB: Rd ← Rd - Rr |
+| 0110           | dddd       | rrrr          | XOR: Rd ← Rd x Rr |
+| 0111           | 0000       | 0000          | LS:  Rd ← Rd x Rr
+| 1000           | kkkk       | kkkk          | JMP: PC ← PC + k + 1 |
+| 1001           | dddd       | kkkk          | LDI: Rd ← K
+| 1010           | 0000       | 0000          |
+| 1011           | dddd       | rrrr          | MOV: Rd ← Rr
+| 1100           | kkkk       | kkkk          | BRGE: PC ← PC + k + 1 |
+| 1101           | kkkk       | kkkk          | BREQ: PC ← PC + k + 1 |
+| 1110           | 0000       | 0000          |
+| 1111           | 0000       | 0000          |
 
 
 
