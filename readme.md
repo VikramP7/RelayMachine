@@ -18,25 +18,30 @@ Using a 24V 0.15W relay [J104D2C24VDC.15S](https://www.digikey.ca/en/products/de
 
 
 ## Gate Implementations with Relay
+![AND Gate](./pics/AND_AB_AB'.png)
+
 
 
 ## OP-Codes
+### ALU Operations:
+- ADD  (addition)
+- SUB  (subtraction)
+- AND  (bitwise AND)
+- OR   (bitwise OR)
+- XOR  (bitwise exclusive OR)
+- LS   (Logic shift both ways)
 
-ADD  (addition)
-SUB  (subtraction)
-AND  (bitwise AND)
-OR   (bitwise OR)
-XOR  (bitwise exclusive OR)
-LS   (Logic shift both ways)
+### Registry Operations:
+- LDI  (Load immediate)
+- MOV  (Move data from reg to reg)
 
-LDI  (Load immediate)
-MOV  (Move data from reg to reg)
+### Program Counter Operations
+- BRGE (branch if greater or equal)
+- BREQ (branch if equal)
+- JMP  (jump program counter)
 
-BRGE (branch if greater or equal)
-BREQ (branch if equal)
-JMP  (jump program counter)
-
-NOP  (No Operation)
+### Miscellaneous Operations
+- NOP  (No Operation)
 
 
 
