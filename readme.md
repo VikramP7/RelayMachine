@@ -27,10 +27,13 @@ Using a 24V 0.15W relay [J104D2C24VDC.15S](https://www.digikey.ca/en/products/de
 ![OR Gate](./pics/OR_A+B_A+B'.jpg)
 *OR Gate Y1=A+B and Y2=A+B'*
 
+![Alternative AND OR Gate Structure](./pics/AND_OR_from_XOR_AB_A+B.jpg)
+*AND or OR Gate from XOR inductor Y1=AB and Y2=A+B*
+
 ![XOR Gate](./pics/XOR_XNOR_AxB_(AxB)'.jpg)
 *XOR and XNOR Gate Y1=AxB and Y2=(AxB)'*
 
-![XOR AND Gate](./pics/XOR_AND_C(AxB).jpg)
+![XOR AND Gate](./pics/XOR_AND_XNOR_AND_C(AxB).jpg)
 *XOR AND and XNOR AND Gate Y1=C(AxB) and Y2=C(AxB)'*
 
 
