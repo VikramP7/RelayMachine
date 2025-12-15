@@ -13,8 +13,23 @@ This project implements a very simple 4-bit computer architecture
 -   Display
 
 
-## Relays
+## Components
+### Relays
 Using a 24V 0.15W relay [J104D2C24VDC.15S](https://www.digikey.ca/en/products/detail/cit-relay-and-switch/J104D2C24VDC-15S/12502730)
+
+### Flyback Diodes
+Using a uni-directional TVS diode [SMAJ24A](https://www.digikey.ca/en/products/detail/littelfuse-inc/SMAJ24A/762288)
+
+### Red LED 
+For important lines LED indicator [151051RS11000](https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/151051RS11000/4490012)
+
+### 1k Resistor
+Using a 1k resistor (0805) for current limiting LEDs [CRCW08051K00FKEA](https://www.digikey.ca/en/products/detail/vishay-dale/CRCW08051K00FKEA/1175637)  
+
+### Connector
+Using a 20pin (10x2) pin connector ribbon cable [FFSD-10-D-06.00-01-N](https://www.digikey.ca/en/products/detail/samtec-inc/FFSD-10-D-06-00-01-N/1106583)
+
+
 
 
 ## Gate Implementations with Relay
@@ -65,16 +80,16 @@ Using a 24V 0.15W relay [J104D2C24VDC.15S](https://www.digikey.ca/en/products/de
 | 0001           | dddd       | rrrr          | ADD: Rd ← Rd + Rr |
 | 0010           | dddd       | rrrr          | AND: Rd ← Rd & Rr |
 | 0011           | dddd       | rrrr          | OR:  Rd ← Rd o Rr |
-| 0100           | 0000       | 0000          | 
+| 0100           | dddd       | rrrr          | 
 | 0101           | dddd       | rrrr          | SUB: Rd ← Rd - Rr |
-| 0110           | dddd       | rrrr          | XOR: Rd ← Rd x Rr |
-| 0111           | 0000       | 0000          | LS:  Rd ← Rd <<>> 1
+| 0110           | dddd       | 0000          | LSL: Rd ← Rd << 1 |
+| 0111           | dddd       | 0000          | LSR: Rd ← Rd >> 1 |
 | 1000           | kkkk       | kkkk          | JMP: PC ← PC + k + 1 |
 | 1001           | dddd       | kkkk          | LDI: Rd ← K
-| 1010           | 0000       | 0000          | 
+| 1010           | 0000       | 0000          | XOR: Rd ← Rd x Rr |
 | 1011           | dddd       | rrrr          | MOV: Rd ← Rr
-| 1100           | kkkk       | kkkk          | BRGE: PC ← PC + k + 1 |
-| 1101           | kkkk       | kkkk          | BREQ: PC ← PC + k + 1 |
+| 1100           | dddd       | kkkk          | BRGE: PC ← PC + k + 1 if Rd >= R1 |
+| 1101           | dddd       | kkkk          | BREQ: PC ← PC + k + 1 if Rd == R1 |
 | 1110           | 0000       | 0000          | 
 | 1111           | 0000       | 0000          | 
 
