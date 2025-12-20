@@ -26,9 +26,13 @@ For important lines LED indicator [151051RS11000](https://www.digikey.ca/en/prod
 ### 1k Resistor
 Using a 1k resistor (0805) for current limiting LEDs [CRCW08051K00FKEA](https://www.digikey.ca/en/products/detail/vishay-dale/CRCW08051K00FKEA/1175637)  
 
-### Connector
-Using a 20pin (10x2) pin connector ribbon cable [FFSD-10-D-06.00-01-N](https://www.digikey.ca/en/products/detail/samtec-inc/FFSD-10-D-06-00-01-N/1106583)
+### Board to Board Connector
+Board Connector 20pos 2row rectangular connector [61202021621](https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/61202021621/2060592)  
+Cable assembly housing keyed [61202023021](https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/61202023021/2060600)  
+Ribbon cable 20 wire 28AWG stranded [3365/20 300](https://www.digikey.ca/en/products/detail/3m/3365-20-300/1107221) or 30AWG solid [3749/20 300](https://www.digikey.ca/en/products/detail/3m/3749-20-300/22532463)
 
+### Board Spacers 
+Hex 25mm female to female M3 threaded spacer [24438](https://www.digikey.ca/en/products/detail/keystone-electronics/24438/1532170)
 
 
 
