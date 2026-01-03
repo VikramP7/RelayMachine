@@ -156,3 +156,43 @@ or potentially switch the SR latch part to an AND-OR latch
 
 
 Based on the Flip Flop structure it is likely to require at least 10
+
+## Clock
+
+Could use a RC circuit to generate a delay and use the relay itself to produce the cyclical behaviour.
+
+![Image of Clock Schematic](./pics/Clock.jpg)
+
+By scaling the resistors and the capacitor various clock speeds and high/low time can be configured.
+
+The timing should follow these equations given that clock period >> 6ms (relay actuation time)
+
+$t_{low}=-R_r\cdot C\cdot \ln(1-\frac{V_{pickup}}{V_{DD}})$
+
+$t_{high}=-R_f\cdot C\cdot \ln(\frac{V_{drop}}{V_{DD}})$
+
+From the relay data sheet the $V_{pickup}=18V$ and the $V_{drop}=2.4V$
+
+Max Capacitor current is:
+$I_{max}=\frac{V_{DD}}{R}$
+
+To keep the max current draw low like <5mA, R should be greater than 5kΩ
+
+A 33kΩ resistor provides a current of 0.73mA keeping overall power low
+
+Based on this resistor range a capacitance of around 4µF will be targeted. By using 8, 0.5µF caps all at 5% tolerance error should be low.  
+
+For a 5Hz clock a period of 0.2s, using a 4µF capacitor the resistances required are:
+
+$R_r=\frac{t_{low}}{C\cdot \ln(1-\frac{V_{pickup}}{V_{DD}})}=\frac{0.2s}{4µF\cdot \ln(1-\frac{18V}{24V})}=36.06737k\Omega$ 
+
+
+$R_f=\frac{t_{high}}{C\cdot \ln(1-\frac{V_{drop}}{V_{DD}})}=\frac{0.2s}{4µF\cdot \ln(\frac{2.4V}{24V})}=21.7147k\Omega$ 
+
+In conclusion, the resistor and capacitor values are as follows:
+
+$C=4µF=8\cdot 0.5µF$  
+$R_r=36.06737k\Omega$  
+$R_f=21.7147k\Omega$  
+
+## Op-Code Routing
