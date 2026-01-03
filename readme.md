@@ -9,8 +9,8 @@ This project implements a very simple 4-bit computer architecture
 ## Systems Overview
 -   ALU (computes numbers)
 -   Program Memory (the program with program counter)
--   Registers
--   Display
+-   Registers (Random Access Memory)
+-   Display / Routing / Clock (Displays Register Values, connections between boards)
 
 
 ## Components
@@ -86,8 +86,8 @@ Hex 25mm female to female M3 threaded spacer [24438](https://www.digikey.ca/en/p
 | 0011           | dddd       | rrrr          | OR:  Rd ← Rd o Rr |
 | 0100           | dddd       | rrrr          | 
 | 0101           | dddd       | rrrr          | SUB: Rd ← Rd - Rr |
-| 0110           | dddd       | 0000          | LSL: Rd ← Rd << 1 |
-| 0111           | dddd       | 0000          | LSR: Rd ← Rd >> 1 |
+| 0110           | dddd       | rrrr          | LSL: Rd ← Rd << 1 |
+| 0111           | dddd       | rrrr          | LSR: Rd ← Rd >> 1 |
 | 1000           | kkkk       | kkkk          | JMP: PC ← PC + k + 1 |
 | 1001           | dddd       | kkkk          | LDI: Rd ← K
 | 1010           | 0000       | 0000          | XOR: Rd ← Rd x Rr |
