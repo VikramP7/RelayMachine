@@ -84,7 +84,7 @@ Hex 25mm female to female M3 threaded spacer [24438](https://www.digikey.ca/en/p
 | 0001           | dddd       | rrrr          | ADD: Rd ← Rd + Rr |
 | 0010           | dddd       | rrrr          | AND: Rd ← Rd & Rr |
 | 0011           | dddd       | rrrr          | OR:  Rd ← Rd o Rr |
-| 0100           | 0000       | 0000          | 
+| 0100           | 0000       | 0000          | Not Defined
 | 0101           | dddd       | rrrr          | SUB: Rd ← Rd - Rr |
 | 0110           | dddd       | rrrr          | LSL: Rd ← Rd << 1 |
 | 0111           | dddd       | rrrr          | LSR: Rd ← Rd >> 1 |
@@ -94,8 +94,8 @@ Hex 25mm female to female M3 threaded spacer [24438](https://www.digikey.ca/en/p
 | 1011           | dddd       | rrrr          | MOV: Rd ← Rr
 | 1100           | dddd       | kkkk          | BRGE: PC ← PC + k + 1 if Rd >= R1 |
 | 1101           | dddd       | kkkk          | BREQ: PC ← PC + k + 1 if Rd == R1 |
-| 1110           | 0000       | 0000          | 
-| 1111           | 0000       | 0000          | 
+| 1110           | 0000       | 0000          | Not Defined
+| 1111           | 0000       | 0000          | Not Defined
 
 
 ## ALU Design
