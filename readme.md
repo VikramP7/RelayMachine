@@ -23,8 +23,8 @@ Using a uni-directional TVS diode [SMAJ24A](https://www.digikey.ca/en/products/d
 ### Red LED 
 For important lines LED indicator [151051RS11000](https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/151051RS11000/4490012)
 
-### 1k Resistor
-Using a 1k resistor (0805) for current limiting LEDs [CRCW08051K00FKEA](https://www.digikey.ca/en/products/detail/vishay-dale/CRCW08051K00FKEA/1175637)  
+### 1.3k Resistor
+Using a 1.3k resistor (2512) for current limiting LEDs [RMCF2512FT1K30](https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RMCF2512FT1K30/1758253)  
 
 ### Board to Board Connector
 Board Connector 20pos 2row rectangular connector [61202021621](https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/61202021621/2060592)  
@@ -193,6 +193,8 @@ In conclusion, the resistor and capacitor values are as follows:
 
 $C=4µF=8\cdot 0.5µF$  
 $R_r=36.06737k\Omega$  
-$R_f=21.7147k\Omega$  
+$R_f=21.7147k\Omega$
+
+Possible 0.5µF film cap is [B32652A3504J000](https://www.digikey.ca/en/products/detail/epcos-tdk-electronics/B32652A3504J000/3491572)
 
 ## Op-Code Routing
