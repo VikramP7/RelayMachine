@@ -202,6 +202,27 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document10]
+DocumentPath=XORXNOR1.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WVALBGET
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Relay_Machine_PCB\Design Rule Check - PCB_ALU.html
+DItemRevisionGUID=
+
 [DeviceSheet1]
 DocumentPath=..\device_sheets\1bitMux2.SchDoc
 ClassGenCCAutoEnabled=1
