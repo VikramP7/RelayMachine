@@ -139,23 +139,27 @@ General Structure will follow this read write topology
 ![Addressable Write Register](./pics/Addressable_register_write.jpg)
 *Addressable Write Register* [Source](https://en.wikipedia.org/wiki/Hardware_register)
 
+**Typically:** a NAND based solution is used given normal people use the CMOS structure, however... NAND and NOR requires lots of relays 
 ![D Flip Flop](./pics/Dflipflop-Master-Slave-edge-triggered-1.png)
 *D Flip Flop NAND Based Circuit* [Source](https://www.build-electronic-circuits.com/d-flip-flop/)
 
-In the front of the latches the D&CLK and the D'&CLK can be achieved in one relay using the AB and AB' structure where A=CLK and B=D
+In the AND  of the latches the D&CLK and the D'&CLK can be achieved in one relay using the AB and AB' structure where A=CLK and B=D
 
 or an alternative structure could be the NOR version
 ![NOR Based Flip Flop](./pics/d-transparent-latch-nor.png)
 *D Latch NOR Based Circuit* [Source](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 
-or potentially switch the SR latch part to an AND-OR latch
+This non NAND/NOR based SR latch wil be used to reduce the number of relays 
 
 ![AND-OR SR Latch](./pics/RS-and-or-flip-flop.png)
 
 *AND-OR SR Latch Circuit* [Very Good Source](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 
 
-Based on the Flip Flop structure it is likely to require at least 10
+Final relay implementation will follow this gate layout
+![Final Relay compatible implementation](./pics/FullFlipFlopImplementation.jpg)
+
+![Final Relay implementation for D-flip-flip](./pics/FullFlipFlopImplementation_schematic.jpg)
 
 ## Clock
 
