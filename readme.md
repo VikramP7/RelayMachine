@@ -146,7 +146,7 @@ In the front of the latches the D&CLK and the D'&CLK can be achieved in one rela
 
 or an alternative structure could be the NOR version
 ![NOR Based Flip Flop](./pics/d-transparent-latch-nor.png)
-*D Flip Flop NOR Based Circuit* [Source](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
+*D Latch NOR Based Circuit* [Source](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 
 or potentially switch the SR latch part to an AND-OR latch
 
@@ -198,3 +198,4 @@ $R_f=21.7147k\Omega$
 Possible 0.5µF film cap is [B32652A3504J000](https://www.digikey.ca/en/products/detail/epcos-tdk-electronics/B32652A3504J000/3491572)
 
 ## Op-Code Routing
+![Draft for the full machine routing](./pics/OpCodeRouting_FullMachine.jpeg)
