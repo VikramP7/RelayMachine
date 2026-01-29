@@ -1,0 +1,439 @@
+*************************************************************
+FileName = PCB_ALU.GBR
+AutoAperture = True
+*************************************************************
+Generating : Keep-Out Layer
+      File : PCB_ALU.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB_ALU.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB_ALU.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : GND
+      File : PCB_ALU.GP2
+
+    Adding Layer      : GND
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+    D34
+    D35
+    D36
+    D37
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 3
+      File : PCB_ALU.3
+
+    Adding Layer      : Dielectric 3
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB_ALU.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D44
+    D45
+    D46
+    D47
+*************************************************************
+
+*************************************************************
+Generating : VCC
+      File : PCB_ALU.GP1
+
+    Adding Layer      : VCC
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB_ALU.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D23
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB_ALU.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PCB_ALU.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top 3D Body
+      File : PCB_ALU.GM2
+
+    Adding Layer      : Top 3D Body
+
+
+Used DCodes :
+    D16
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Top Courtyard
+      File : PCB_ALU.GM5
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Top Component Outline
+      File : PCB_ALU.GM11
+
+    Adding Layer      : Top Component Outline
+
+
+Used DCodes :
+    D16
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Outline
+      File : PCB_ALU.GM12
+
+    Adding Layer      : Bottom Component Outline
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : PCB_ALU.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+*************************************************************
+
+*************************************************************
+Generating : Bottom 3D Body
+      File : PCB_ALU.GM14
+
+    Adding Layer      : Bottom 3D Body
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB_ALU.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : PCB_ALU.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Courtyard
+      File : PCB_ALU.GM16
+
+    Adding Layer      : Bottom Courtyard
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : PCB_ALU.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D50
+    D51
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : PCB_ALU.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D23
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Bottom Component Center
+      File : PCB_ALU.GM18
+
+    Adding Layer      : Bottom Component Center
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : PCB_ALU.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PCB_ALU.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D27
+    D28
+    D29
+    D40
+    D41
+    D42
+    D43
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 1
+      File : PCB_ALU.1
+
+    Adding Layer      : Dielectric 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Multi-Layer
+      File : PCB_ALU.GML
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D23
+    D27
+    D28
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Dielectric 2
+      File : PCB_ALU.2
+
+    Adding Layer      : Dielectric 2
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Component Center
+      File : PCB_ALU.GM17
+
+    Adding Layer      : Top Component Center
+
+
+Used DCodes :
+    D49
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PCB_ALU.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D52
+    D53
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PCB_ALU.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D52
+*************************************************************
+
+*************************************************************
+Generating : Profile
+      File : PCB_ALU.GM
+
+
+Used DCodes :
+    D54
+*************************************************************
+

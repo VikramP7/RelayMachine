@@ -1,0 +1,156 @@
+Removed Member From Class: ClassName=U_XORXNOR Member=D5
+Removed Member From Class: ClassName=U_XORXNOR Member=K5
+Change Component Designator: OldDesignator=D5 NewDesignator=D45
+Change Component Designator: OldDesignator=D6 NewDesignator=D46
+Change Component Designator: OldDesignator=D7 NewDesignator=D47
+Change Component Designator: OldDesignator=D8 NewDesignator=D48
+Change Component Designator: OldDesignator=D9 NewDesignator=D49
+Change Component Designator: OldDesignator=D10 NewDesignator=D50
+Change Component Designator: OldDesignator=D11 NewDesignator=D51
+Change Component Designator: OldDesignator=D12 NewDesignator=D52
+Change Component Designator: OldDesignator=D NewDesignator=D41
+Change Component Designator: OldDesignator=D NewDesignator=D42
+Change Component Designator: OldDesignator=D NewDesignator=D43
+Change Component Designator: OldDesignator=D NewDesignator=D44
+Change Component Designator: OldDesignator=D_U_1bitMux21 NewDesignator=D1
+Change Component Designator: OldDesignator=D_U_1bitMux22 NewDesignator=D2
+Change Component Designator: OldDesignator=D_U_4bitMux21 NewDesignator=D7
+Change Component Designator: OldDesignator=D_U_4bitMux21 NewDesignator=D8
+Change Component Designator: OldDesignator=D_U_4bitMux22 NewDesignator=D9
+Change Component Designator: OldDesignator=D_U_4bitMux22 NewDesignator=D10
+Change Component Designator: OldDesignator=D_U_4bitMux23 NewDesignator=D11
+Change Component Designator: OldDesignator=D_U_4bitMux23 NewDesignator=D12
+Change Component Designator: OldDesignator=D_U_4bitMux24 NewDesignator=D13
+Change Component Designator: OldDesignator=D_U_4bitMux24 NewDesignator=D14
+Change Component Designator: OldDesignator=D_U_4bitMux25 NewDesignator=D15
+Change Component Designator: OldDesignator=D_U_4bitMux25 NewDesignator=D16
+Change Component Designator: OldDesignator=D_U_4bitMux26 NewDesignator=D17
+Change Component Designator: OldDesignator=D_U_4bitMux26 NewDesignator=D18
+Change Component Designator: OldDesignator=D_U_4bitMux27 NewDesignator=D19
+Change Component Designator: OldDesignator=D_U_4bitMux27 NewDesignator=D20
+Change Component Designator: OldDesignator=D_U_FullAdder1 NewDesignator=D21
+Change Component Designator: OldDesignator=D_U_FullAdder1 NewDesignator=D22
+Change Component Designator: OldDesignator=D_U_FullAdder1 NewDesignator=D23
+Change Component Designator: OldDesignator=D_U_FullAdder1 NewDesignator=D24
+Change Component Designator: OldDesignator=D_U_FullAdder1 NewDesignator=D25
+Change Component Designator: OldDesignator=D_U_FullAdder2 NewDesignator=D26
+Change Component Designator: OldDesignator=D_U_FullAdder2 NewDesignator=D27
+Change Component Designator: OldDesignator=D_U_FullAdder2 NewDesignator=D28
+Change Component Designator: OldDesignator=D_U_FullAdder2 NewDesignator=D29
+Change Component Designator: OldDesignator=D_U_FullAdder2 NewDesignator=D30
+Change Component Designator: OldDesignator=D_U_FullAdder3 NewDesignator=D31
+Change Component Designator: OldDesignator=D_U_FullAdder3 NewDesignator=D32
+Change Component Designator: OldDesignator=D_U_FullAdder3 NewDesignator=D33
+Change Component Designator: OldDesignator=D_U_FullAdder3 NewDesignator=D34
+Change Component Designator: OldDesignator=D_U_FullAdder3 NewDesignator=D35
+Change Component Designator: OldDesignator=D_U_FullAdder4 NewDesignator=D36
+Change Component Designator: OldDesignator=D_U_FullAdder4 NewDesignator=D37
+Change Component Designator: OldDesignator=D_U_FullAdder4 NewDesignator=D38
+Change Component Designator: OldDesignator=D_U_FullAdder4 NewDesignator=D39
+Change Component Designator: OldDesignator=D_U_FullAdder4 NewDesignator=D40
+Change Component Designator: OldDesignator=K5 NewDesignator=K37
+Change Component Designator: OldDesignator=K6 NewDesignator=K38
+Change Component Designator: OldDesignator=K7 NewDesignator=K39
+Change Component Designator: OldDesignator=K8 NewDesignator=K40
+Change Component Designator: OldDesignator=K NewDesignator=K33
+Change Component Designator: OldDesignator=K NewDesignator=K34
+Change Component Designator: OldDesignator=K NewDesignator=K35
+Change Component Designator: OldDesignator=K NewDesignator=K36
+Change Component Designator: OldDesignator=K_U_1bitMux21 NewDesignator=K1
+Change Component Designator: OldDesignator=K_U_1bitMux22 NewDesignator=K2
+Change Component Designator: OldDesignator=K_U_4bitMux21 NewDesignator=K7
+Change Component Designator: OldDesignator=K_U_4bitMux21 NewDesignator=K8
+Change Component Designator: OldDesignator=K_U_4bitMux22 NewDesignator=K9
+Change Component Designator: OldDesignator=K_U_4bitMux22 NewDesignator=K10
+Change Component Designator: OldDesignator=K_U_4bitMux23 NewDesignator=K11
+Change Component Designator: OldDesignator=K_U_4bitMux23 NewDesignator=K12
+Change Component Designator: OldDesignator=K_U_4bitMux24 NewDesignator=K13
+Change Component Designator: OldDesignator=K_U_4bitMux24 NewDesignator=K14
+Change Component Designator: OldDesignator=K_U_4bitMux25 NewDesignator=K15
+Change Component Designator: OldDesignator=K_U_4bitMux25 NewDesignator=K16
+Change Component Designator: OldDesignator=K_U_4bitMux26 NewDesignator=K17
+Change Component Designator: OldDesignator=K_U_4bitMux26 NewDesignator=K18
+Change Component Designator: OldDesignator=K_U_4bitMux27 NewDesignator=K19
+Change Component Designator: OldDesignator=K_U_4bitMux27 NewDesignator=K20
+Change Component Designator: OldDesignator=K_U_FullAdder1 NewDesignator=K21
+Change Component Designator: OldDesignator=K_U_FullAdder1 NewDesignator=K22
+Change Component Designator: OldDesignator=K_U_FullAdder1 NewDesignator=K23
+Change Component Designator: OldDesignator=K_U_FullAdder2 NewDesignator=K24
+Change Component Designator: OldDesignator=K_U_FullAdder2 NewDesignator=K25
+Change Component Designator: OldDesignator=K_U_FullAdder2 NewDesignator=K26
+Change Component Designator: OldDesignator=K_U_FullAdder3 NewDesignator=K27
+Change Component Designator: OldDesignator=K_U_FullAdder3 NewDesignator=K28
+Change Component Designator: OldDesignator=K_U_FullAdder3 NewDesignator=K29
+Change Component Designator: OldDesignator=K_U_FullAdder4 NewDesignator=K30
+Change Component Designator: OldDesignator=K_U_FullAdder4 NewDesignator=K31
+Change Component Designator: OldDesignator=K_U_FullAdder4 NewDesignator=K32
+Change Net Name : Old Net Name=NetK_U_1bitMux21_5 New Net Name=NetK1_5
+Change Net Name : Old Net Name=NetK_U_1bitMux21_6 New Net Name=NetK1_6
+Change Net Name : Old Net Name=NetK_U_1bitMux21_7 New Net Name=NetK1_7
+Change Net Name : Old Net Name=NetK_U_1bitMux22_5 New Net Name=NetK2_5
+Change Net Name : Old Net Name=NetK_U_1bitMux22_6 New Net Name=NetK2_6
+Change Net Name : Old Net Name=NetK_U_1bitMux22_7 New Net Name=NetK2_7
+Change Net Name : Old Net Name=NetK_U_4bitMux21_5 New Net Name=NetK7_5
+Change Net Name : Old Net Name=NetK_U_4bitMux22_2 New Net Name=NetK7_4
+Change Net Name : Old Net Name=NetK_U_4bitMux26_4 New Net Name=NetK17_4
+Change Net Name : Old Net Name=NetK_U_4bitMux26_5 New Net Name=NetK17_5
+Added Pin To Net: NetName=NetK8_4 Pin=K8-4
+Added Pin To Net: NetName=NetK8_4 Pin=K10-2
+Added Net: Name=NetK8_4
+Added Pin To Net: NetName=NetK8_5 Pin=K8-5
+Added Pin To Net: NetName=NetK8_5 Pin=K10-7
+Added Net: Name=NetK8_5
+Added Pin To Net: NetName=NetK18_4 Pin=K18-4
+Added Pin To Net: NetName=NetK18_4 Pin=K36-7
+Added Net: Name=NetK18_4
+Added Pin To Net: NetName=NetK18_5 Pin=K18-5
+Added Pin To Net: NetName=NetK18_5 Pin=K33-7
+Added Net: Name=NetK18_5
+Added Member To Class: ClassName=U_4bitMux21 Member=Component D7 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux22 Member=Component D10 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux23 Member=Component D11 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux24 Member=Component D14 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux25 Member=Component D16 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux26 Member=Component D17 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux27 Member=Component D20 (D) SMAJ24A
+Added Member To Class: ClassName=U_FullAdder1 Member=Component D22 (D) SMAJ24A
+Added Member To Class: ClassName=U_FullAdder1 Member=Component D23 (D) SMAJ24A
+Added Member To Class: ClassName=U_FullAdder1 Member=Component D24 (D) SMAJ24A
+Added Member To Class: ClassName=U_FullAdder1 Member=Component D25 (D) SMAJ24A
+Added Member To Class: ClassName=U_FullAdder2 Member=Component D26 (D) SMAJ24A
+Added Member To Class: ClassName=U_FullAdder2 Member=Component D27 (D) SMAJ24A
+Added Member To Class: ClassName=U_FullAdder2 Member=Component D28 (D) SMAJ24A
+Added Member To Class: ClassName=U_FullAdder2 Member=Component D29 (D) SMAJ24A
+Added Member To Class: ClassName=U_FullAdder3 Member=Component D32 (D) SMAJ24A
+Added Member To Class: ClassName=U_FullAdder3 Member=Component D33 (D) SMAJ24A
+Added Member To Class: ClassName=U_FullAdder3 Member=Component D34 (D) SMAJ24A
+Added Member To Class: ClassName=U_FullAdder3 Member=Component D35 (D) SMAJ24A
+Added Member To Class: ClassName=U_FullAdder4 Member=Component D36 (D) SMAJ24A
+Added Member To Class: ClassName=U_FullAdder4 Member=Component D37 (D) SMAJ24A
+Added Member To Class: ClassName=U_FullAdder4 Member=Component D38 (D) SMAJ24A
+Added Member To Class: ClassName=U_FullAdder4 Member=Component D40 (D) SMAJ24A
+Added Member To Class: ClassName=U_NOT4 Member=Component D42 (D) SMAJ24A
+Added Member To Class: ClassName=U_NOT4 Member=Component D43 (D) SMAJ24A
+Added Member To Class: ClassName=U_NOT4 Member=Component D44 (D) SMAJ24A
+Added Member To Class: ClassName=U_XORXNOR Member=Component D45 (D5) SMAJ24A
+Added Member To Class: ClassName=U_XORXNOR Member=Component D49 (D9) SMAJ24A
+Added Member To Class: ClassName=U_XORXNOR Member=Component D50 (D10) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux21 Member=Component K8 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux22 Member=Component K10 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux23 Member=Component K12 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux24 Member=Component K14 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux25 Member=Component K16 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux26 Member=Component K17 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux27 Member=Component K20 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_FullAdder1 Member=Component K21 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_FullAdder1 Member=Component K22 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_FullAdder2 Member=Component K25 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_FullAdder2 Member=Component K26 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_FullAdder3 Member=Component K27 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_FullAdder3 Member=Component K29 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_FullAdder4 Member=Component K30 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_FullAdder4 Member=Component K32 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_NOT4 Member=Component K33 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_NOT4 Member=Component K35 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_NOT4 Member=Component K36 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_XORXNOR Member=Component K37 (K5) J104D2C24VDC.15S

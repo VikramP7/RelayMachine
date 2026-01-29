@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=ALU_Adder_Cout Pin=J2-14
-Removed Pin From Net: NetName=ALU_Cout Pin=J2-16
-Added Pin To Net: NetName=ALU_Cout Pin=J2-14
-Added Pin To Net: NetName=ALU_Adder_Cout Pin=J2-16
