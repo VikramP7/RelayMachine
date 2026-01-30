@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=D? NewDesignator=D3
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=D? NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D7
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=K? NewDesignator=K1
+Change Component Designator: OldDesignator=K? NewDesignator=K2
+Change Component Designator: OldDesignator=K? NewDesignator=K3
+Change Component Designator: OldDesignator=K? NewDesignator=K4
+Change Component Designator: OldDesignator=K? NewDesignator=K5
+Change Component Designator: OldDesignator=K? NewDesignator=K6
+Change Component Designator: OldDesignator=K? NewDesignator=K7
+Added Member To Class: ClassName=U_FlipFlop Member=Component D1 SMAJ24A
+Added Member To Class: ClassName=U_FlipFlop Member=Component D2 SMAJ24A
+Added Member To Class: ClassName=U_FlipFlop Member=Component D3 SMAJ24A
+Added Member To Class: ClassName=U_FlipFlop Member=Component D4 SMAJ24A
+Added Member To Class: ClassName=U_FlipFlop Member=Component D5 SMAJ24A
+Added Member To Class: ClassName=U_FlipFlop Member=Component D7 SMAJ24A
+Added Member To Class: ClassName=U_FlipFlop Member=Component K1 J104D2C24VDC.15S
+Added Member To Class: ClassName=U_FlipFlop Member=Component K2 J104D2C24VDC.15S
+Added Member To Class: ClassName=U_FlipFlop Member=Component K3 J104D2C24VDC.15S
+Added Member To Class: ClassName=U_FlipFlop Member=Component K4 J104D2C24VDC.15S
+Added Member To Class: ClassName=U_FlipFlop Member=Component K6 J104D2C24VDC.15S
+Added Member To Class: ClassName=U_FlipFlop Member=Component K7 J104D2C24VDC.15S

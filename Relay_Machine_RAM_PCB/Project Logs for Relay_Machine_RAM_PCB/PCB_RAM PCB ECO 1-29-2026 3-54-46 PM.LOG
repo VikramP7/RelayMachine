@@ -1,0 +1,120 @@
+Removed Pin From Net: NetName=GND Pin=D?_U_FlipFlop1-2
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=D?_U_FlipFlop2-2
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=D?_U_FlipFlop3-2
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=K?_U_FlipFlop1-3
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=K?_U_FlipFlop1-8
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=K?_U_FlipFlop2-3
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=K?_U_FlipFlop2-5
+Removed Pin From Net: NetName=GND Pin=K?_U_FlipFlop2-8
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=K?_U_FlipFlop3-4
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=+24V Pin=K?_U_FlipFlop3-5
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=K?_U_FlipFlop3-8
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Change Component Designator: OldDesignator=D?_U_FlipFlop4 NewDesignator=D?
+Change Component Designator: OldDesignator=D?_U_FlipFlop4 NewDesignator=D?
+Change Component Designator: OldDesignator=D?_U_FlipFlop4 NewDesignator=D?
+Change Component Designator: OldDesignator=D?_U_FlipFlop4 NewDesignator=D?
+Change Component Designator: OldDesignator=D?_U_FlipFlop4 NewDesignator=D?
+Change Component Designator: OldDesignator=D?_U_FlipFlop4 NewDesignator=D?
+Change Component Designator: OldDesignator=D?_U_FlipFlop4 NewDesignator=D?
+Change Component Designator: OldDesignator=K?_U_FlipFlop4 NewDesignator=K?
+Change Component Designator: OldDesignator=K?_U_FlipFlop4 NewDesignator=K?
+Change Component Designator: OldDesignator=K?_U_FlipFlop4 NewDesignator=K?
+Change Component Designator: OldDesignator=K?_U_FlipFlop4 NewDesignator=K?
+Change Component Designator: OldDesignator=K?_U_FlipFlop4 NewDesignator=K?
+Change Component Designator: OldDesignator=K?_U_FlipFlop4 NewDesignator=K?
+Change Component Designator: OldDesignator=K?_U_FlipFlop4 NewDesignator=K?
+Added Pin To Net: NetName=+24V Pin=J?-1
+Added Pin To Net: NetName=+24V Pin=J?-2
+Added Pin To Net: NetName=+24V Pin=J?-3
+Added Pin To Net: NetName=+24V Pin=J?-4
+Added Pin To Net: NetName=L2_SRBack_U_FlipFlop4 Pin=J?-6
+Added Pin To Net: NetName=CLK_U_FlipFlop4 Pin=J?-15
+Added Pin To Net: NetName=GND Pin=J?-17
+Added Pin To Net: NetName=GND Pin=J?-18
+Added Pin To Net: NetName=GND Pin=J?-19
+Added Pin To Net: NetName=GND Pin=J?-20
+Change Net Name : Old Net Name=CLK_U_FlipFlop4 New Net Name=CLK
+Change Net Name : Old Net Name=D_U_FlipFlop4 New Net Name=D
+Change Net Name : Old Net Name=L1_AndTop_U_FlipFlop4 New Net Name=L1_AndTop
+Change Net Name : Old Net Name=L1_OrBot_U_FlipFlop4 New Net Name=L1_OrBot
+Change Net Name : Old Net Name=L1_SRBack_U_FlipFlop4 New Net Name=L1_SRBack
+Change Net Name : Old Net Name=L1_SROR_U_FlipFlop4 New Net Name=L1_SROR
+Change Net Name : Old Net Name=L2_AndBot_U_FlipFlop4 New Net Name=L2_AndBot
+Change Net Name : Old Net Name=L2_AndTop_U_FlipFlop4 New Net Name=L2_AndTop
+Change Net Name : Old Net Name=L2_SRBack_U_FlipFlop4 New Net Name=L2_SRBack
+Change Net Name : Old Net Name=L2_SROR_U_FlipFlop4 New Net Name=L2_SROR
+Added Pin To Net: NetName=D0 Pin=J?-5
+Added Pin To Net: NetName=D0 Pin=K?-4
+Added Net: Name=D0
+Added Pin To Net: NetName=D1 Pin=J?-7
+Added Net: Name=D1
+Added Pin To Net: NetName=D2 Pin=J?-9
+Added Net: Name=D2
+Added Pin To Net: NetName=D3 Pin=J?-11
+Added Net: Name=D3
+Added Pin To Net: NetName=LD Pin=D?-1
+Added Pin To Net: NetName=LD Pin=J?-13
+Added Pin To Net: NetName=LD Pin=K?-1
+Added Net: Name=LD
+Added Pin To Net: NetName=Q1 Pin=J?-8
+Added Net: Name=Q1
+Added Pin To Net: NetName=Q2 Pin=J?-10
+Added Net: Name=Q2
+Added Pin To Net: NetName=Q3 Pin=J?-12
+Added Net: Name=Q3
+Added Class: Name=U_FlipFlop

@@ -135,7 +135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IOQMXLRP
 
 [Document6]
-DocumentPath=Relay_Machine_RAM_PCB.Annotation
+DocumentPath=Relay_Machine_REG_PCB.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
