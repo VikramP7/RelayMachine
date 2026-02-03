@@ -2,6 +2,9 @@
 
 # Relay Machine - 4-bit Computer Made of Relays
 
+## TODO
+- Fix REGister LED indicator order (right most should be Q0 as its LSBs)
+
 ## Project Overview
 
 This project implements a very simple 4-bit computer architecture 
@@ -132,18 +135,9 @@ Along with a big MUX to then select which opcode line we are at based on the Pro
 
 ## Registers
 
-General Structure will follow this read write topology
-![Addressable Read Register](./pics/Addressable_register_read_mux.jpg)
-*Addressable Read Register* [Source](https://en.wikipedia.org/wiki/Hardware_register)
-
-![Addressable Write Register](./pics/Addressable_register_write.jpg)
-*Addressable Write Register* [Source](https://en.wikipedia.org/wiki/Hardware_register)
-
 **Typically:** a NAND based solution is used given normal people use the CMOS structure, however... NAND and NOR requires lots of relays 
 ![D Flip Flop](./pics/Dflipflop-Master-Slave-edge-triggered-1.png)
 *D Flip Flop NAND Based Circuit* [Source](https://www.build-electronic-circuits.com/d-flip-flop/)
-
-In the AND  of the latches the D&CLK and the D'&CLK can be achieved in one relay using the AB and AB' structure where A=CLK and B=D
 
 or an alternative structure could be the NOR version
 ![NOR Based Flip Flop](./pics/d-transparent-latch-nor.png)
@@ -160,6 +154,40 @@ Final relay implementation will follow this gate layout
 ![Final Relay compatible implementation](./pics/FullFlipFlopImplementation.jpg)
 
 ![Final Relay implementation for D-flip-flip](./pics/FullFlipFlopImplementation_schematic.jpg)
+
+**Read Topology:**
+![Addressable Read Register](./pics/Addressable_register_read_mux.jpg)
+*Addressable Read Register* [Source](https://en.wikipedia.org/wiki/Hardware_register)
+by using cascading 4-bit MUX2s we can accomplish a full MUX8, one for each possible register. 
+
+**Write Toplogy**
+![Addressable Write Register](./pics/Addressable_register_write.jpg)
+*Addressable Write Register* [Source](https://en.wikipedia.org/wiki/Hardware_register)
+To create the decoder the only 3-input gate we can use is the XOR-AND gate so optimizing with that:
+
+2&3&7, 24
+5&1&7, 50
+4&6, 12
+
+$LD_0=$  
+$LD_1=\overline{[A_{B0} \&\overline{(A_{B0}\oplus A_{B2})}]}\&[A_{B0} \&(A_{B0}\oplus A_{B1})]$  
+$LD_2=[A_{B1} \&\overline{(A_{B2}\oplus A_{B0})}]\&[A_{B1} \&(A_{B1}\oplus A_{B2})]$  
+$LD_3=\overline{[A_{B1} \&\overline{(A_{B2}\oplus A_{B0})}]}\&[A_{B1} \&(A_{B1}\oplus A_{B2})]$  
+$LD_4=[A_{B2} \&\overline{(A_{B1}\oplus A_{B0})}]\&[A_{B2} \&(A_{B0}\oplus A_{B2})]$  
+$LD_5=[A_{B0} \&\overline{(A_{B0}\oplus A_{B2})}]\&[A_{B0} \&(A_{B0}\oplus A_{B1})]$  
+$LD_6=\overline{[A_{B2} \&\overline{(A_{B1}\oplus A_{B0})}]}\&[A_{B2} \&(A_{B0}\oplus A_{B2})]$  
+$LD_7=[A_{B1} \&\overline{(A_{B2}\oplus A_{B0})}]\&\overline{[A_{B1} \& (A_{B1}\oplus A_{B2})]}$
+
+$LD_2=[A_{B1} \&\overline{(A_{B2}\oplus A_{B0})}]\&[A_{B1} \&(A_{B1}\oplus A_{B2})]$  
+$LD_3=\overline{[A_{B1} \&\overline{(A_{B2}\oplus A_{B0})}]}\&[A_{B1} \&(A_{B1}\oplus A_{B2})]$ 
+$LD_7=[A_{B1} \&\overline{(A_{B2}\oplus A_{B0})}]\&\overline{[A_{B1} \& (A_{B1}\oplus A_{B2})]}$
+
+$LD_1=\overline{[A_{B0} \&\overline{(A_{B0}\oplus A_{B2})}]}\&[A_{B0} \&(A_{B0}\oplus A_{B1})]$
+$LD_5=[A_{B0} \&\overline{(A_{B0}\oplus A_{B2})}]\&[A_{B0} \&(A_{B0}\oplus A_{B1})]$  
+
+$LD_4=[A_{B2} \&\overline{(A_{B1}\oplus A_{B0})}]\&[A_{B2} \&(A_{B0}\oplus A_{B2})]$  
+$LD_6=\overline{[A_{B2} \&\overline{(A_{B1}\oplus A_{B0})}]}\&[A_{B2} \&(A_{B0}\oplus A_{B2})]$  
+
 
 ## Clock
 
