@@ -1,0 +1,2 @@
+Record=TopLevelDocument|FileName=RAM_top.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=RAM_top.SchDoc|Designator=U_4bitMux2|SchDesignator=U_4bitMux2|FileName=4bitMux2.SchDoc|SheetNumber= |SymbolType=Device Sheet|RawFileName=4bitMux2|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
