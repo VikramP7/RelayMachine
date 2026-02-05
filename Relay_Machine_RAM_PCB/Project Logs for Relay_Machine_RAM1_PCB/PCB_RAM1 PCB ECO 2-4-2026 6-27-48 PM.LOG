@@ -1,0 +1,1583 @@
+Change Component Designator: OldDesignator=D_U_4bitMux21 NewDesignator=D_U_4bitMux28
+Change Component Designator: OldDesignator=D_U_4bitMux21 NewDesignator=D_U_4bitMux28
+Change Component Designator: OldDesignator=D_U_4bitMux22 NewDesignator=D_U_4bitMux25
+Change Component Designator: OldDesignator=D_U_4bitMux22 NewDesignator=D_U_4bitMux25
+Change Component Designator: OldDesignator=D_U_4bitMux23 NewDesignator=D_U_4bitMux21
+Change Component Designator: OldDesignator=D_U_4bitMux23 NewDesignator=D_U_4bitMux21
+Change Component Designator: OldDesignator=D_U_4bitMux24 NewDesignator=D_U_4bitMux26
+Change Component Designator: OldDesignator=D_U_4bitMux24 NewDesignator=D_U_4bitMux26
+Change Component Designator: OldDesignator=D_U_4bitMux25 NewDesignator=D_U_4bitMux22
+Change Component Designator: OldDesignator=D_U_4bitMux25 NewDesignator=D_U_4bitMux22
+Change Component Designator: OldDesignator=D_U_4bitMux26 NewDesignator=D_U_4bitMux27
+Change Component Designator: OldDesignator=D_U_4bitMux26 NewDesignator=D_U_4bitMux27
+Change Component Designator: OldDesignator=D_U_4bitMux27 NewDesignator=D_U_4bitMux23
+Change Component Designator: OldDesignator=D_U_4bitMux27 NewDesignator=D_U_4bitMux23
+Change Component Designator: OldDesignator=D_U_4bitMux28 NewDesignator=D_U_4bitMux24
+Change Component Designator: OldDesignator=D_U_4bitMux28 NewDesignator=D_U_4bitMux24
+Added Component: Designator=J?(Con 2.54mm 10x2pos)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation"; Value = "Insulated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "33.06mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61202021621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.86, 10=0.839, 50=0.7732, 160=0.69213, 320=0.64375 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "12933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "732-2096-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "33.06mm"; VariantName = "[No Variations]"
+Added Component: Designator=J?(Con 2.54mm 10x2pos)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation"; Value = "Insulated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "33.06mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61202021621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.86, 10=0.839, 50=0.7732, 160=0.69213, 320=0.64375 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "12933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "732-2096-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "33.06mm"; VariantName = "[No Variations]"
+Added Component: Designator=J?(Con 2.54mm 10x2pos)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation"; Value = "Insulated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "33.06mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61202021621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.86, 10=0.839, 50=0.7732, 160=0.69213, 320=0.64375 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "12933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "732-2096-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "33.06mm"; VariantName = "[No Variations]"
+Added Component: Designator=J?(Con 2.54mm 10x2pos)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation"; Value = "Insulated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "33.06mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61202021621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.86, 10=0.839, 50=0.7732, 160=0.69213, 320=0.64375 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "12933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "732-2096-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "33.06mm"; VariantName = "[No Variations]"
+Added Component: Designator=J?(Con 2.54mm 10x2pos)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation"; Value = "Insulated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "33.06mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61202021621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.86, 10=0.839, 50=0.7732, 160=0.69213, 320=0.64375 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "12933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "732-2096-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "33.06mm"; VariantName = "[No Variations]"
+Added Component: Designator=J?(Con 2.54mm 10x2pos)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation"; Value = "Insulated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "33.06mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61202021621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.86, 10=0.839, 50=0.7732, 160=0.69213, 320=0.64375 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "12933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "732-2096-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "33.06mm"; VariantName = "[No Variations]"
+Added Component: Designator=J?(Con 2.54mm 10x2pos)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation"; Value = "Insulated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "33.06mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61202021621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.86, 10=0.839, 50=0.7732, 160=0.69213, 320=0.64375 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "12933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "732-2096-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "33.06mm"; VariantName = "[No Variations]"
+Added Component: Designator=J?(Con 2.54mm 10x2pos)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation"; Value = "Insulated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "33.06mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61202021621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.86, 10=0.839, 50=0.7732, 160=0.69213, 320=0.64375 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "12933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "732-2096-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "33.06mm"; VariantName = "[No Variations]"
+Added Component: Designator=J?(Con 2.54mm 10x2pos)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation"; Value = "Insulated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "33.06mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61202021621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.86, 10=0.839, 50=0.7732, 160=0.69213, 320=0.64375 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "12933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "732-2096-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "33.06mm"; VariantName = "[No Variations]"
+Added Component: Designator=J?(Con 2.54mm 10x2pos)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation"; Value = "Insulated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "33.06mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61202021621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.86, 10=0.839, 50=0.7732, 160=0.69213, 320=0.64375 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "12933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "732-2096-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "33.06mm"; VariantName = "[No Variations]"
+Added Component: Designator=J?(Con 2.54mm 10x2pos)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation"; Value = "Insulated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "33.06mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61202021621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.86, 10=0.839, 50=0.7732, 160=0.69213, 320=0.64375 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "12933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "732-2096-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "33.06mm"; VariantName = "[No Variations]"
+Added Component: Designator=J?(Con 2.54mm 10x2pos)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation"; Value = "Insulated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "33.06mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61202021621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.86, 10=0.839, 50=0.7732, 160=0.69213, 320=0.64375 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "12933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "732-2096-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "33.06mm"; VariantName = "[No Variations]"
+Added Component: Designator=J?(Con 2.54mm 10x2pos)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation"; Value = "Insulated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "33.06mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61202021621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.86, 10=0.839, 50=0.7732, 160=0.69213, 320=0.64375 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "12933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "732-2096-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "33.06mm"; VariantName = "[No Variations]"
+Added Component: Designator=J?(Con 2.54mm 10x2pos)
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-111087935.pdf?src-supplier=Upverter"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.octopart.com:443/61202021621-Wurth-Elektronik-datasheet-168480024.pdf?src-supplier=Wurth+Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-datasheet-149523954.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-10469446.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.octopart.com:443/61202021621-W%C3%BCrth-Elektronik-Midcom-datasheet-5367532.pdf?src-supplier=element14+APAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation"; Value = "Insulated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Material"; Value = "PBT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "1GO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "33.06mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "61202021621"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.86, 10=0.839, 50=0.7732, 160=0.69213, 320=0.64375 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "12933"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "732-2096-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "33.06mm"; VariantName = "[No Variations]"
+Added Component: Designator=K_U_4bitMux21(Relay J104D2C24VDC.15S)
+Add component (AddParameter): Name = "Category"; Value = "Signal Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "6mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "150mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "3.84kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100kcycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.42mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CIT Relay & Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "J104D2C24VDC.15S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.26, 20=1.082, 40=1.045, 60=1.02383, 100=0.998, 260=0.95115, 500=0.92036, 1000=0.88878, 5000=0.8195 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "4ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "6ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2449-J104D2C24VDC.15S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Added Component: Designator=K_U_4bitMux21(Relay J104D2C24VDC.15S)
+Add component (AddParameter): Name = "Category"; Value = "Signal Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "6mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "150mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "3.84kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100kcycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.42mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CIT Relay & Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "J104D2C24VDC.15S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.26, 20=1.082, 40=1.045, 60=1.02383, 100=0.998, 260=0.95115, 500=0.92036, 1000=0.88878, 5000=0.8195 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "4ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "6ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2449-J104D2C24VDC.15S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Added Component: Designator=K_U_4bitMux22(Relay J104D2C24VDC.15S)
+Add component (AddParameter): Name = "Category"; Value = "Signal Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "6mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "150mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "3.84kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100kcycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.42mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CIT Relay & Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "J104D2C24VDC.15S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.26, 20=1.082, 40=1.045, 60=1.02383, 100=0.998, 260=0.95115, 500=0.92036, 1000=0.88878, 5000=0.8195 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "4ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "6ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2449-J104D2C24VDC.15S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Added Component: Designator=K_U_4bitMux22(Relay J104D2C24VDC.15S)
+Add component (AddParameter): Name = "Category"; Value = "Signal Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "6mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "150mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "3.84kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100kcycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.42mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CIT Relay & Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "J104D2C24VDC.15S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.26, 20=1.082, 40=1.045, 60=1.02383, 100=0.998, 260=0.95115, 500=0.92036, 1000=0.88878, 5000=0.8195 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "4ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "6ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2449-J104D2C24VDC.15S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Added Component: Designator=K_U_4bitMux23(Relay J104D2C24VDC.15S)
+Add component (AddParameter): Name = "Category"; Value = "Signal Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "6mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "150mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "3.84kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100kcycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.42mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CIT Relay & Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "J104D2C24VDC.15S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.26, 20=1.082, 40=1.045, 60=1.02383, 100=0.998, 260=0.95115, 500=0.92036, 1000=0.88878, 5000=0.8195 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "4ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "6ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2449-J104D2C24VDC.15S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Added Component: Designator=K_U_4bitMux23(Relay J104D2C24VDC.15S)
+Add component (AddParameter): Name = "Category"; Value = "Signal Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "6mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "150mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "3.84kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100kcycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.42mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CIT Relay & Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "J104D2C24VDC.15S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.26, 20=1.082, 40=1.045, 60=1.02383, 100=0.998, 260=0.95115, 500=0.92036, 1000=0.88878, 5000=0.8195 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "4ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "6ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2449-J104D2C24VDC.15S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Added Component: Designator=K_U_4bitMux24(Relay J104D2C24VDC.15S)
+Add component (AddParameter): Name = "Category"; Value = "Signal Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "6mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "150mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "3.84kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100kcycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.42mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CIT Relay & Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "J104D2C24VDC.15S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.26, 20=1.082, 40=1.045, 60=1.02383, 100=0.998, 260=0.95115, 500=0.92036, 1000=0.88878, 5000=0.8195 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "4ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "6ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2449-J104D2C24VDC.15S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Added Component: Designator=K_U_4bitMux24(Relay J104D2C24VDC.15S)
+Add component (AddParameter): Name = "Category"; Value = "Signal Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "6mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "150mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "3.84kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100kcycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.42mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CIT Relay & Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "J104D2C24VDC.15S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.26, 20=1.082, 40=1.045, 60=1.02383, 100=0.998, 260=0.95115, 500=0.92036, 1000=0.88878, 5000=0.8195 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "4ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "6ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2449-J104D2C24VDC.15S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Added Component: Designator=K_U_4bitMux25(Relay J104D2C24VDC.15S)
+Add component (AddParameter): Name = "Category"; Value = "Signal Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "6mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "150mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "3.84kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100kcycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.42mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CIT Relay & Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "J104D2C24VDC.15S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.26, 20=1.082, 40=1.045, 60=1.02383, 100=0.998, 260=0.95115, 500=0.92036, 1000=0.88878, 5000=0.8195 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "4ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "6ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2449-J104D2C24VDC.15S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Added Component: Designator=K_U_4bitMux25(Relay J104D2C24VDC.15S)
+Add component (AddParameter): Name = "Category"; Value = "Signal Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "6mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "150mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "3.84kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100kcycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.42mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CIT Relay & Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "J104D2C24VDC.15S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.26, 20=1.082, 40=1.045, 60=1.02383, 100=0.998, 260=0.95115, 500=0.92036, 1000=0.88878, 5000=0.8195 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "4ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "6ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2449-J104D2C24VDC.15S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Added Component: Designator=K_U_4bitMux26(Relay J104D2C24VDC.15S)
+Add component (AddParameter): Name = "Category"; Value = "Signal Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "6mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "150mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "3.84kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100kcycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.42mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CIT Relay & Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "J104D2C24VDC.15S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.26, 20=1.082, 40=1.045, 60=1.02383, 100=0.998, 260=0.95115, 500=0.92036, 1000=0.88878, 5000=0.8195 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "4ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "6ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2449-J104D2C24VDC.15S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Added Component: Designator=K_U_4bitMux26(Relay J104D2C24VDC.15S)
+Add component (AddParameter): Name = "Category"; Value = "Signal Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "6mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "150mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "3.84kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100kcycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.42mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CIT Relay & Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "J104D2C24VDC.15S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.26, 20=1.082, 40=1.045, 60=1.02383, 100=0.998, 260=0.95115, 500=0.92036, 1000=0.88878, 5000=0.8195 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "4ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "6ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2449-J104D2C24VDC.15S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Added Component: Designator=K_U_4bitMux27(Relay J104D2C24VDC.15S)
+Add component (AddParameter): Name = "Category"; Value = "Signal Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "6mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "150mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "3.84kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100kcycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.42mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CIT Relay & Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "J104D2C24VDC.15S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.26, 20=1.082, 40=1.045, 60=1.02383, 100=0.998, 260=0.95115, 500=0.92036, 1000=0.88878, 5000=0.8195 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "4ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "6ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2449-J104D2C24VDC.15S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Added Component: Designator=K_U_4bitMux27(Relay J104D2C24VDC.15S)
+Add component (AddParameter): Name = "Category"; Value = "Signal Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "6mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "150mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "3.84kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100kcycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.42mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CIT Relay & Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "J104D2C24VDC.15S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.26, 20=1.082, 40=1.045, 60=1.02383, 100=0.998, 260=0.95115, 500=0.92036, 1000=0.88878, 5000=0.8195 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "4ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "6ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2449-J104D2C24VDC.15S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Added Component: Designator=K_U_4bitMux28(Relay J104D2C24VDC.15S)
+Add component (AddParameter): Name = "Category"; Value = "Signal Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "6mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "150mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "3.84kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100kcycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.42mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CIT Relay & Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "J104D2C24VDC.15S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.26, 20=1.082, 40=1.045, 60=1.02383, 100=0.998, 260=0.95115, 500=0.92036, 1000=0.88878, 5000=0.8195 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "4ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "6ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2449-J104D2C24VDC.15S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Added Component: Designator=K_U_4bitMux28(Relay J104D2C24VDC.15S)
+Add component (AddParameter): Name = "Category"; Value = "Signal Relays"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Current"; Value = "6mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Power"; Value = "150mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Resistance"; Value = "3.84kO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Coil Voltage (DC)"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "50mO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Electrical Life"; Value = "100kcycles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "11.42mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "100MO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "20.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CIT Relay & Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "J104D2C24VDC.15S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current Rating"; Value = "2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "100V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminals"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=1.26, 20=1.082, 40=1.045, 60=1.02383, 100=0.998, 260=0.95115, 500=0.92036, 1000=0.88878, 5000=0.8195 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Release Time"; Value = "4ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Response Time"; Value = "6ms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "5620"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number"; Value = "2449-J104D2C24VDC.15S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+24V Pin=J?-1
+Added Pin To Net: NetName=+24V Pin=J?-1
+Added Pin To Net: NetName=+24V Pin=J?-1
+Added Pin To Net: NetName=+24V Pin=J?-1
+Added Pin To Net: NetName=+24V Pin=J?-1
+Added Pin To Net: NetName=+24V Pin=J?-1
+Added Pin To Net: NetName=+24V Pin=J?-1
+Added Pin To Net: NetName=+24V Pin=J?-1
+Added Pin To Net: NetName=+24V Pin=J?-1
+Added Pin To Net: NetName=+24V Pin=J?-1
+Added Pin To Net: NetName=+24V Pin=J?-1
+Added Pin To Net: NetName=+24V Pin=J?-1
+Added Pin To Net: NetName=+24V Pin=J?-1
+Added Pin To Net: NetName=+24V Pin=J?-1
+Added Pin To Net: NetName=+24V Pin=J?-2
+Added Pin To Net: NetName=+24V Pin=J?-2
+Added Pin To Net: NetName=+24V Pin=J?-2
+Added Pin To Net: NetName=+24V Pin=J?-2
+Added Pin To Net: NetName=+24V Pin=J?-2
+Added Pin To Net: NetName=+24V Pin=J?-2
+Added Pin To Net: NetName=+24V Pin=J?-2
+Added Pin To Net: NetName=+24V Pin=J?-2
+Added Pin To Net: NetName=+24V Pin=J?-2
+Added Pin To Net: NetName=+24V Pin=J?-2
+Added Pin To Net: NetName=+24V Pin=J?-2
+Added Pin To Net: NetName=+24V Pin=J?-2
+Added Pin To Net: NetName=+24V Pin=J?-2
+Added Pin To Net: NetName=+24V Pin=J?-2
+Added Pin To Net: NetName=+24V Pin=J?-3
+Added Pin To Net: NetName=+24V Pin=J?-3
+Added Pin To Net: NetName=+24V Pin=J?-3
+Added Pin To Net: NetName=+24V Pin=J?-3
+Added Pin To Net: NetName=+24V Pin=J?-3
+Added Pin To Net: NetName=+24V Pin=J?-3
+Added Pin To Net: NetName=+24V Pin=J?-3
+Added Pin To Net: NetName=+24V Pin=J?-3
+Added Pin To Net: NetName=+24V Pin=J?-3
+Added Pin To Net: NetName=+24V Pin=J?-3
+Added Pin To Net: NetName=+24V Pin=J?-3
+Added Pin To Net: NetName=+24V Pin=J?-3
+Added Pin To Net: NetName=+24V Pin=J?-3
+Added Pin To Net: NetName=+24V Pin=J?-3
+Added Pin To Net: NetName=+24V Pin=J?-4
+Added Pin To Net: NetName=+24V Pin=J?-4
+Added Pin To Net: NetName=+24V Pin=J?-4
+Added Pin To Net: NetName=+24V Pin=J?-4
+Added Pin To Net: NetName=+24V Pin=J?-4
+Added Pin To Net: NetName=+24V Pin=J?-4
+Added Pin To Net: NetName=+24V Pin=J?-4
+Added Pin To Net: NetName=+24V Pin=J?-4
+Added Pin To Net: NetName=+24V Pin=J?-4
+Added Pin To Net: NetName=+24V Pin=J?-4
+Added Pin To Net: NetName=+24V Pin=J?-4
+Added Pin To Net: NetName=+24V Pin=J?-4
+Added Pin To Net: NetName=+24V Pin=J?-4
+Added Pin To Net: NetName=+24V Pin=J?-4
+Added Pin To Net: NetName=At0 Pin=J?-5
+Added Pin To Net: NetName=At1 Pin=J?-5
+Added Pin To Net: NetName=r0D0 Pin=J?-5
+Added Pin To Net: NetName=r0D0 Pin=J?-5
+Added Pin To Net: NetName=r0D0 Pin=J?-5
+Added Pin To Net: NetName=r0D0 Pin=J?-5
+Added Pin To Net: NetName=r0D0 Pin=J?-5
+Added Pin To Net: NetName=r0D0 Pin=J?-5
+Added Pin To Net: NetName=r0D0 Pin=J?-5
+Added Pin To Net: NetName=r0D0 Pin=J?-5
+Added Pin To Net: NetName=r0D0 Pin=J?-5
+Added Pin To Net: NetName=r0r1RDt0 Pin=J?-5
+Added Pin To Net: NetName=r4r5RDt0 Pin=J?-5
+Added Pin To Net: NetName=r4r5RDt0 Pin=J?-5
+Added Pin To Net: NetName=Ab0 Pin=J?-6
+Added Pin To Net: NetName=Ab1 Pin=J?-6
+Added Pin To Net: NetName=r0Q0 Pin=J?-6
+Added Pin To Net: NetName=r0r1RDb0 Pin=J?-6
+Added Pin To Net: NetName=r1Q0 Pin=J?-6
+Added Pin To Net: NetName=r2Q0 Pin=J?-6
+Added Pin To Net: NetName=r3Q0 Pin=J?-6
+Added Pin To Net: NetName=r4Q0 Pin=J?-6
+Added Pin To Net: NetName=r4r5RDb0 Pin=J?-6
+Added Pin To Net: NetName=r4r5RDb0 Pin=J?-6
+Added Pin To Net: NetName=r5Q0 Pin=J?-6
+Added Pin To Net: NetName=r6Q0 Pin=J?-6
+Added Pin To Net: NetName=r7Q0 Pin=J?-6
+Added Pin To Net: NetName=RDt0 Pin=J?-6
+Added Pin To Net: NetName=At1 Pin=J?-7
+Added Pin To Net: NetName=At2 Pin=J?-7
+Added Pin To Net: NetName=r0D1 Pin=J?-7
+Added Pin To Net: NetName=r0D1 Pin=J?-7
+Added Pin To Net: NetName=r0D1 Pin=J?-7
+Added Pin To Net: NetName=r0D1 Pin=J?-7
+Added Pin To Net: NetName=r0D1 Pin=J?-7
+Added Pin To Net: NetName=r0D1 Pin=J?-7
+Added Pin To Net: NetName=r0D1 Pin=J?-7
+Added Pin To Net: NetName=r0D1 Pin=J?-7
+Added Pin To Net: NetName=r0D1 Pin=J?-7
+Added Pin To Net: NetName=r0r1RDt1 Pin=J?-7
+Added Pin To Net: NetName=r4r5RDt1 Pin=J?-7
+Added Pin To Net: NetName=r4r5RDt1 Pin=J?-7
+Added Pin To Net: NetName=Ab1 Pin=J?-8
+Added Pin To Net: NetName=Ab2 Pin=J?-8
+Added Pin To Net: NetName=r0Q1 Pin=J?-8
+Added Pin To Net: NetName=r0r1RDb1 Pin=J?-8
+Added Pin To Net: NetName=r1Q1 Pin=J?-8
+Added Pin To Net: NetName=r2Q1 Pin=J?-8
+Added Pin To Net: NetName=r3Q1 Pin=J?-8
+Added Pin To Net: NetName=r4Q1 Pin=J?-8
+Added Pin To Net: NetName=r4r5RDb1 Pin=J?-8
+Added Pin To Net: NetName=r4r5RDb1 Pin=J?-8
+Added Pin To Net: NetName=r5Q1 Pin=J?-8
+Added Pin To Net: NetName=r6Q1 Pin=J?-8
+Added Pin To Net: NetName=r7Q1 Pin=J?-8
+Added Pin To Net: NetName=RDt1 Pin=J?-8
+Added Pin To Net: NetName=At2 Pin=J?-9
+Added Pin To Net: NetName=At3 Pin=J?-9
+Added Pin To Net: NetName=r0D2 Pin=J?-9
+Added Pin To Net: NetName=r0D2 Pin=J?-9
+Added Pin To Net: NetName=r0D2 Pin=J?-9
+Added Pin To Net: NetName=r0D2 Pin=J?-9
+Added Pin To Net: NetName=r0D2 Pin=J?-9
+Added Pin To Net: NetName=r0D2 Pin=J?-9
+Added Pin To Net: NetName=r0D2 Pin=J?-9
+Added Pin To Net: NetName=r0D2 Pin=J?-9
+Added Pin To Net: NetName=r0D2 Pin=J?-9
+Added Pin To Net: NetName=r0r1RDt2 Pin=J?-9
+Added Pin To Net: NetName=r4r5RDt2 Pin=J?-9
+Added Pin To Net: NetName=r4r5RDt2 Pin=J?-9
+Added Pin To Net: NetName=Ab2 Pin=J?-10
+Added Pin To Net: NetName=Ab3 Pin=J?-10
+Added Pin To Net: NetName=r0Q2 Pin=J?-10
+Added Pin To Net: NetName=r0r1RDb2 Pin=J?-10
+Added Pin To Net: NetName=r1Q2 Pin=J?-10
+Added Pin To Net: NetName=r2Q2 Pin=J?-10
+Added Pin To Net: NetName=r3Q2 Pin=J?-10
+Added Pin To Net: NetName=r4Q2 Pin=J?-10
+Added Pin To Net: NetName=r4r5RDb2 Pin=J?-10
+Added Pin To Net: NetName=r4r5RDb2 Pin=J?-10
+Added Pin To Net: NetName=r5Q2 Pin=J?-10
+Added Pin To Net: NetName=r6Q2 Pin=J?-10
+Added Pin To Net: NetName=r7Q2 Pin=J?-10
+Added Pin To Net: NetName=RDt2 Pin=J?-10
+Added Pin To Net: NetName=At3 Pin=J?-11
+Added Pin To Net: NetName=r0D3 Pin=J?-11
+Added Pin To Net: NetName=r0D3 Pin=J?-11
+Added Pin To Net: NetName=r0D3 Pin=J?-11
+Added Pin To Net: NetName=r0D3 Pin=J?-11
+Added Pin To Net: NetName=r0D3 Pin=J?-11
+Added Pin To Net: NetName=r0D3 Pin=J?-11
+Added Pin To Net: NetName=r0D3 Pin=J?-11
+Added Pin To Net: NetName=r0D3 Pin=J?-11
+Added Pin To Net: NetName=r0D3 Pin=J?-11
+Added Pin To Net: NetName=r0r1RDt3 Pin=J?-11
+Added Pin To Net: NetName=r4r5RDt3 Pin=J?-11
+Added Pin To Net: NetName=r4r5RDt3 Pin=J?-11
+Added Pin To Net: NetName=WE Pin=J?-11
+Added Pin To Net: NetName=Ab3 Pin=J?-12
+Added Pin To Net: NetName=CLK Pin=J?-12
+Added Pin To Net: NetName=r0Q3 Pin=J?-12
+Added Pin To Net: NetName=r0r1RDb3 Pin=J?-12
+Added Pin To Net: NetName=r1Q3 Pin=J?-12
+Added Pin To Net: NetName=r2Q3 Pin=J?-12
+Added Pin To Net: NetName=r3Q3 Pin=J?-12
+Added Pin To Net: NetName=r4Q3 Pin=J?-12
+Added Pin To Net: NetName=r4r5RDb3 Pin=J?-12
+Added Pin To Net: NetName=r4r5RDb3 Pin=J?-12
+Added Pin To Net: NetName=r5Q3 Pin=J?-12
+Added Pin To Net: NetName=r6Q3 Pin=J?-12
+Added Pin To Net: NetName=r7Q3 Pin=J?-12
+Added Pin To Net: NetName=RDt3 Pin=J?-12
+Added Pin To Net: NetName=r0LD Pin=J?-13
+Added Pin To Net: NetName=r1LD Pin=J?-13
+Added Pin To Net: NetName=r2LD Pin=J?-13
+Added Pin To Net: NetName=r2r3RDt0 Pin=J?-13
+Added Pin To Net: NetName=r3LD Pin=J?-13
+Added Pin To Net: NetName=r4LD Pin=J?-13
+Added Pin To Net: NetName=r5LD Pin=J?-13
+Added Pin To Net: NetName=r6LD Pin=J?-13
+Added Pin To Net: NetName=r6r7RDb0 Pin=J?-13
+Added Pin To Net: NetName=r6r7RDt0 Pin=J?-13
+Added Pin To Net: NetName=r7LD Pin=J?-13
+Added Pin To Net: NetName=RDb0 Pin=J?-13
+Added Pin To Net: NetName=WE Pin=J?-13
+Added Pin To Net: NetName=r2r3RDt2 Pin=J?-14
+Added Pin To Net: NetName=r6r7RDb2 Pin=J?-14
+Added Pin To Net: NetName=r6r7RDt2 Pin=J?-14
+Added Pin To Net: NetName=RDb2 Pin=J?-14
+Added Pin To Net: NetName=CLK Pin=J?-15
+Added Pin To Net: NetName=CLK Pin=J?-15
+Added Pin To Net: NetName=CLK Pin=J?-15
+Added Pin To Net: NetName=CLK Pin=J?-15
+Added Pin To Net: NetName=CLK Pin=J?-15
+Added Pin To Net: NetName=CLK Pin=J?-15
+Added Pin To Net: NetName=CLK Pin=J?-15
+Added Pin To Net: NetName=CLK Pin=J?-15
+Added Pin To Net: NetName=CLK Pin=J?-15
+Added Pin To Net: NetName=r2r3RDt1 Pin=J?-15
+Added Pin To Net: NetName=r6r7RDb1 Pin=J?-15
+Added Pin To Net: NetName=r6r7RDt1 Pin=J?-15
+Added Pin To Net: NetName=RDb1 Pin=J?-15
+Added Pin To Net: NetName=r2r3RDt3 Pin=J?-16
+Added Pin To Net: NetName=r6r7RDb3 Pin=J?-16
+Added Pin To Net: NetName=r6r7RDt3 Pin=J?-16
+Added Pin To Net: NetName=RDb3 Pin=J?-16
+Added Pin To Net: NetName=GND Pin=J?-17
+Added Pin To Net: NetName=GND Pin=J?-17
+Added Pin To Net: NetName=GND Pin=J?-17
+Added Pin To Net: NetName=GND Pin=J?-17
+Added Pin To Net: NetName=GND Pin=J?-17
+Added Pin To Net: NetName=GND Pin=J?-17
+Added Pin To Net: NetName=GND Pin=J?-17
+Added Pin To Net: NetName=GND Pin=J?-17
+Added Pin To Net: NetName=GND Pin=J?-17
+Added Pin To Net: NetName=GND Pin=J?-17
+Added Pin To Net: NetName=GND Pin=J?-17
+Added Pin To Net: NetName=GND Pin=J?-17
+Added Pin To Net: NetName=GND Pin=J?-17
+Added Pin To Net: NetName=GND Pin=J?-17
+Added Pin To Net: NetName=GND Pin=J?-18
+Added Pin To Net: NetName=GND Pin=J?-18
+Added Pin To Net: NetName=GND Pin=J?-18
+Added Pin To Net: NetName=GND Pin=J?-18
+Added Pin To Net: NetName=GND Pin=J?-18
+Added Pin To Net: NetName=GND Pin=J?-18
+Added Pin To Net: NetName=GND Pin=J?-18
+Added Pin To Net: NetName=GND Pin=J?-18
+Added Pin To Net: NetName=GND Pin=J?-18
+Added Pin To Net: NetName=GND Pin=J?-18
+Added Pin To Net: NetName=GND Pin=J?-18
+Added Pin To Net: NetName=GND Pin=J?-18
+Added Pin To Net: NetName=GND Pin=J?-18
+Added Pin To Net: NetName=GND Pin=J?-18
+Added Pin To Net: NetName=GND Pin=J?-19
+Added Pin To Net: NetName=GND Pin=J?-19
+Added Pin To Net: NetName=GND Pin=J?-19
+Added Pin To Net: NetName=GND Pin=J?-19
+Added Pin To Net: NetName=GND Pin=J?-19
+Added Pin To Net: NetName=GND Pin=J?-19
+Added Pin To Net: NetName=GND Pin=J?-19
+Added Pin To Net: NetName=GND Pin=J?-19
+Added Pin To Net: NetName=GND Pin=J?-19
+Added Pin To Net: NetName=GND Pin=J?-19
+Added Pin To Net: NetName=GND Pin=J?-19
+Added Pin To Net: NetName=GND Pin=J?-19
+Added Pin To Net: NetName=GND Pin=J?-19
+Added Pin To Net: NetName=GND Pin=J?-19
+Added Pin To Net: NetName=GND Pin=J?-20
+Added Pin To Net: NetName=GND Pin=J?-20
+Added Pin To Net: NetName=GND Pin=J?-20
+Added Pin To Net: NetName=GND Pin=J?-20
+Added Pin To Net: NetName=GND Pin=J?-20
+Added Pin To Net: NetName=GND Pin=J?-20
+Added Pin To Net: NetName=GND Pin=J?-20
+Added Pin To Net: NetName=GND Pin=J?-20
+Added Pin To Net: NetName=GND Pin=J?-20
+Added Pin To Net: NetName=GND Pin=J?-20
+Added Pin To Net: NetName=GND Pin=J?-20
+Added Pin To Net: NetName=GND Pin=J?-20
+Added Pin To Net: NetName=GND Pin=J?-20
+Added Pin To Net: NetName=GND Pin=J?-20
+Added Pin To Net: NetName=Ab0 Pin=K_U_4bitMux21-1
+Added Pin To Net: NetName=Ab0 Pin=K_U_4bitMux21-1
+Added Pin To Net: NetName=r6r7RDb1 Pin=K_U_4bitMux21-2
+Added Pin To Net: NetName=r6r7RDb3 Pin=K_U_4bitMux21-2
+Added Pin To Net: NetName=r6Q1 Pin=K_U_4bitMux21-3
+Added Pin To Net: NetName=r6Q3 Pin=K_U_4bitMux21-3
+Added Pin To Net: NetName=r7Q1 Pin=K_U_4bitMux21-4
+Added Pin To Net: NetName=r7Q3 Pin=K_U_4bitMux21-4
+Added Pin To Net: NetName=r7Q0 Pin=K_U_4bitMux21-5
+Added Pin To Net: NetName=r7Q2 Pin=K_U_4bitMux21-5
+Added Pin To Net: NetName=r6Q0 Pin=K_U_4bitMux21-6
+Added Pin To Net: NetName=r6Q2 Pin=K_U_4bitMux21-6
+Added Pin To Net: NetName=r6r7RDb0 Pin=K_U_4bitMux21-7
+Added Pin To Net: NetName=r6r7RDb2 Pin=K_U_4bitMux21-7
+Added Pin To Net: NetName=GND Pin=K_U_4bitMux21-8
+Added Pin To Net: NetName=GND Pin=K_U_4bitMux21-8
+Added Pin To Net: NetName=Ab0 Pin=K_U_4bitMux22-1
+Added Pin To Net: NetName=Ab0 Pin=K_U_4bitMux22-1
+Added Pin To Net: NetName=r4r5RDb1 Pin=K_U_4bitMux22-2
+Added Pin To Net: NetName=r4r5RDb3 Pin=K_U_4bitMux22-2
+Added Pin To Net: NetName=r4Q1 Pin=K_U_4bitMux22-3
+Added Pin To Net: NetName=r4Q3 Pin=K_U_4bitMux22-3
+Added Pin To Net: NetName=r5Q1 Pin=K_U_4bitMux22-4
+Added Pin To Net: NetName=r5Q3 Pin=K_U_4bitMux22-4
+Added Pin To Net: NetName=r5Q0 Pin=K_U_4bitMux22-5
+Added Pin To Net: NetName=r5Q2 Pin=K_U_4bitMux22-5
+Added Pin To Net: NetName=r4Q0 Pin=K_U_4bitMux22-6
+Added Pin To Net: NetName=r4Q2 Pin=K_U_4bitMux22-6
+Added Pin To Net: NetName=r4r5RDb0 Pin=K_U_4bitMux22-7
+Added Pin To Net: NetName=r4r5RDb2 Pin=K_U_4bitMux22-7
+Added Pin To Net: NetName=GND Pin=K_U_4bitMux22-8
+Added Pin To Net: NetName=GND Pin=K_U_4bitMux22-8
+Added Pin To Net: NetName=Ab0 Pin=K_U_4bitMux23-1
+Added Pin To Net: NetName=Ab0 Pin=K_U_4bitMux23-1
+Added Pin To Net: NetName=r2Q1 Pin=K_U_4bitMux23-3
+Added Pin To Net: NetName=r2Q3 Pin=K_U_4bitMux23-3
+Added Pin To Net: NetName=r3Q1 Pin=K_U_4bitMux23-4
+Added Pin To Net: NetName=r3Q3 Pin=K_U_4bitMux23-4
+Added Pin To Net: NetName=r3Q0 Pin=K_U_4bitMux23-5
+Added Pin To Net: NetName=r3Q2 Pin=K_U_4bitMux23-5
+Added Pin To Net: NetName=r2Q0 Pin=K_U_4bitMux23-6
+Added Pin To Net: NetName=r2Q2 Pin=K_U_4bitMux23-6
+Added Pin To Net: NetName=GND Pin=K_U_4bitMux23-8
+Added Pin To Net: NetName=GND Pin=K_U_4bitMux23-8
+Added Pin To Net: NetName=Ab0 Pin=K_U_4bitMux24-1
+Added Pin To Net: NetName=Ab0 Pin=K_U_4bitMux24-1
+Added Pin To Net: NetName=r0r1RDb1 Pin=K_U_4bitMux24-2
+Added Pin To Net: NetName=r0r1RDb3 Pin=K_U_4bitMux24-2
+Added Pin To Net: NetName=r0Q1 Pin=K_U_4bitMux24-3
+Added Pin To Net: NetName=r0Q3 Pin=K_U_4bitMux24-3
+Added Pin To Net: NetName=r1Q1 Pin=K_U_4bitMux24-4
+Added Pin To Net: NetName=r1Q3 Pin=K_U_4bitMux24-4
+Added Pin To Net: NetName=r1Q0 Pin=K_U_4bitMux24-5
+Added Pin To Net: NetName=r1Q2 Pin=K_U_4bitMux24-5
+Added Pin To Net: NetName=r0Q0 Pin=K_U_4bitMux24-6
+Added Pin To Net: NetName=r0Q2 Pin=K_U_4bitMux24-6
+Added Pin To Net: NetName=r0r1RDb0 Pin=K_U_4bitMux24-7
+Added Pin To Net: NetName=r0r1RDb2 Pin=K_U_4bitMux24-7
+Added Pin To Net: NetName=GND Pin=K_U_4bitMux24-8
+Added Pin To Net: NetName=GND Pin=K_U_4bitMux24-8
+Added Pin To Net: NetName=At0 Pin=K_U_4bitMux25-1
+Added Pin To Net: NetName=At0 Pin=K_U_4bitMux25-1
+Added Pin To Net: NetName=r6r7RDt1 Pin=K_U_4bitMux25-2
+Added Pin To Net: NetName=r6r7RDt3 Pin=K_U_4bitMux25-2
+Added Pin To Net: NetName=r6Q1 Pin=K_U_4bitMux25-3
+Added Pin To Net: NetName=r6Q3 Pin=K_U_4bitMux25-3
+Added Pin To Net: NetName=r7Q1 Pin=K_U_4bitMux25-4
+Added Pin To Net: NetName=r7Q3 Pin=K_U_4bitMux25-4
+Added Pin To Net: NetName=r7Q0 Pin=K_U_4bitMux25-5
+Added Pin To Net: NetName=r7Q2 Pin=K_U_4bitMux25-5
+Added Pin To Net: NetName=r6Q0 Pin=K_U_4bitMux25-6
+Added Pin To Net: NetName=r6Q2 Pin=K_U_4bitMux25-6
+Added Pin To Net: NetName=r6r7RDt0 Pin=K_U_4bitMux25-7
+Added Pin To Net: NetName=r6r7RDt2 Pin=K_U_4bitMux25-7
+Added Pin To Net: NetName=GND Pin=K_U_4bitMux25-8
+Added Pin To Net: NetName=GND Pin=K_U_4bitMux25-8
+Added Pin To Net: NetName=At0 Pin=K_U_4bitMux26-1
+Added Pin To Net: NetName=At0 Pin=K_U_4bitMux26-1
+Added Pin To Net: NetName=r4r5RDt1 Pin=K_U_4bitMux26-2
+Added Pin To Net: NetName=r4r5RDt3 Pin=K_U_4bitMux26-2
+Added Pin To Net: NetName=r4Q1 Pin=K_U_4bitMux26-3
+Added Pin To Net: NetName=r4Q3 Pin=K_U_4bitMux26-3
+Added Pin To Net: NetName=r5Q1 Pin=K_U_4bitMux26-4
+Added Pin To Net: NetName=r5Q3 Pin=K_U_4bitMux26-4
+Added Pin To Net: NetName=r5Q0 Pin=K_U_4bitMux26-5
+Added Pin To Net: NetName=r5Q2 Pin=K_U_4bitMux26-5
+Added Pin To Net: NetName=r4Q0 Pin=K_U_4bitMux26-6
+Added Pin To Net: NetName=r4Q2 Pin=K_U_4bitMux26-6
+Added Pin To Net: NetName=r4r5RDt0 Pin=K_U_4bitMux26-7
+Added Pin To Net: NetName=r4r5RDt2 Pin=K_U_4bitMux26-7
+Added Pin To Net: NetName=GND Pin=K_U_4bitMux26-8
+Added Pin To Net: NetName=GND Pin=K_U_4bitMux26-8
+Added Pin To Net: NetName=At0 Pin=K_U_4bitMux27-1
+Added Pin To Net: NetName=At0 Pin=K_U_4bitMux27-1
+Added Pin To Net: NetName=r2r3RDt1 Pin=K_U_4bitMux27-2
+Added Pin To Net: NetName=r2r3RDt3 Pin=K_U_4bitMux27-2
+Added Pin To Net: NetName=r2Q1 Pin=K_U_4bitMux27-3
+Added Pin To Net: NetName=r2Q3 Pin=K_U_4bitMux27-3
+Added Pin To Net: NetName=r3Q1 Pin=K_U_4bitMux27-4
+Added Pin To Net: NetName=r3Q3 Pin=K_U_4bitMux27-4
+Added Pin To Net: NetName=r3Q0 Pin=K_U_4bitMux27-5
+Added Pin To Net: NetName=r3Q2 Pin=K_U_4bitMux27-5
+Added Pin To Net: NetName=r2Q0 Pin=K_U_4bitMux27-6
+Added Pin To Net: NetName=r2Q2 Pin=K_U_4bitMux27-6
+Added Pin To Net: NetName=r2r3RDt0 Pin=K_U_4bitMux27-7
+Added Pin To Net: NetName=r2r3RDt2 Pin=K_U_4bitMux27-7
+Added Pin To Net: NetName=GND Pin=K_U_4bitMux27-8
+Added Pin To Net: NetName=GND Pin=K_U_4bitMux27-8
+Added Pin To Net: NetName=At0 Pin=K_U_4bitMux28-1
+Added Pin To Net: NetName=At0 Pin=K_U_4bitMux28-1
+Added Pin To Net: NetName=r0r1RDt1 Pin=K_U_4bitMux28-2
+Added Pin To Net: NetName=r0r1RDt3 Pin=K_U_4bitMux28-2
+Added Pin To Net: NetName=r0Q1 Pin=K_U_4bitMux28-3
+Added Pin To Net: NetName=r0Q3 Pin=K_U_4bitMux28-3
+Added Pin To Net: NetName=r1Q1 Pin=K_U_4bitMux28-4
+Added Pin To Net: NetName=r1Q3 Pin=K_U_4bitMux28-4
+Added Pin To Net: NetName=r1Q0 Pin=K_U_4bitMux28-5
+Added Pin To Net: NetName=r1Q2 Pin=K_U_4bitMux28-5
+Added Pin To Net: NetName=r0Q0 Pin=K_U_4bitMux28-6
+Added Pin To Net: NetName=r0Q2 Pin=K_U_4bitMux28-6
+Added Pin To Net: NetName=r0r1RDt0 Pin=K_U_4bitMux28-7
+Added Pin To Net: NetName=r0r1RDt2 Pin=K_U_4bitMux28-7
+Added Pin To Net: NetName=GND Pin=K_U_4bitMux28-8
+Added Pin To Net: NetName=GND Pin=K_U_4bitMux28-8
+Added Pin To Net: NetName=r2r3RDb0 Pin=J?-13
+Added Pin To Net: NetName=r2r3RDb0 Pin=K_U_4bitMux23-7
+Added Net: Name=r2r3RDb0
+Added Pin To Net: NetName=r2r3RDb1 Pin=J?-15
+Added Pin To Net: NetName=r2r3RDb1 Pin=K_U_4bitMux23-2
+Added Net: Name=r2r3RDb1
+Added Pin To Net: NetName=r2r3RDb2 Pin=J?-14
+Added Pin To Net: NetName=r2r3RDb2 Pin=K_U_4bitMux23-7
+Added Net: Name=r2r3RDb2
+Added Pin To Net: NetName=r2r3RDb3 Pin=J?-16
+Added Pin To Net: NetName=r2r3RDb3 Pin=K_U_4bitMux23-2
+Added Net: Name=r2r3RDb3
+Added Class: Name=RAM1_top
+Added Member To Class: ClassName=U_4bitMux21 Member=Component D_U_4bitMux21 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux22 Member=Component D_U_4bitMux22 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux23 Member=Component D_U_4bitMux23 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux24 Member=Component D_U_4bitMux24 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux25 Member=Component D_U_4bitMux25 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux26 Member=Component D_U_4bitMux26 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux27 Member=Component D_U_4bitMux27 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux28 Member=Component D_U_4bitMux28 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux21 Member=Component K_U_4bitMux21 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux21 Member=Component K_U_4bitMux21 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux22 Member=Component K_U_4bitMux22 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux22 Member=Component K_U_4bitMux22 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux23 Member=Component K_U_4bitMux23 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux23 Member=Component K_U_4bitMux23 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux24 Member=Component K_U_4bitMux24 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux24 Member=Component K_U_4bitMux24 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux25 Member=Component K_U_4bitMux25 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux25 Member=Component K_U_4bitMux25 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux26 Member=Component K_U_4bitMux26 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux26 Member=Component K_U_4bitMux26 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux27 Member=Component K_U_4bitMux27 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux27 Member=Component K_U_4bitMux27 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux28 Member=Component K_U_4bitMux28 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux28 Member=Component K_U_4bitMux28 (K) J104D2C24VDC.15S

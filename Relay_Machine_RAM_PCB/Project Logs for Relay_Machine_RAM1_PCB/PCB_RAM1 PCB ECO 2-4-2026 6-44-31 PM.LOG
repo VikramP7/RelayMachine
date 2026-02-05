@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=r4r5RDt0 Pin=J13-5
+Removed Pin From Net: NetName=r4r5RDb0 Pin=J13-6
+Removed Pin From Net: NetName=r4r5RDt1 Pin=J13-7
+Removed Pin From Net: NetName=r4r5RDb1 Pin=J13-8
+Removed Pin From Net: NetName=r4r5RDt2 Pin=J13-9
+Removed Pin From Net: NetName=r4r5RDb2 Pin=J13-10
+Removed Pin From Net: NetName=r4r5RDt3 Pin=J13-11
+Removed Pin From Net: NetName=r4r5RDb3 Pin=J13-12
+Added Pin To Net: NetName=r6r7RDt0 Pin=J13-5
+Added Pin To Net: NetName=r6r7RDb0 Pin=J13-6
+Added Pin To Net: NetName=r6r7RDt1 Pin=J13-7
+Added Pin To Net: NetName=r6r7RDb1 Pin=J13-8
+Added Pin To Net: NetName=r6r7RDt2 Pin=J13-9
+Added Pin To Net: NetName=r6r7RDb2 Pin=J13-10
+Added Pin To Net: NetName=r6r7RDt3 Pin=J13-11
+Added Pin To Net: NetName=r6r7RDb3 Pin=J13-12

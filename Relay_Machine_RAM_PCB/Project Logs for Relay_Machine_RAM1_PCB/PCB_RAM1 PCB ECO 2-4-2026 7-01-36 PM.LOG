@@ -1,0 +1,224 @@
+Removed Pin From Net: NetName=r6r7RDb1 Pin=K1-2
+Removed Pin From Net: NetName=r6Q1 Pin=K1-3
+Removed Pin From Net: NetName=r7Q1 Pin=K1-4
+Removed Pin From Net: NetName=r7Q0 Pin=K1-5
+Removed Pin From Net: NetName=r6Q0 Pin=K1-6
+Removed Pin From Net: NetName=r6r7RDb0 Pin=K1-7
+Removed Pin From Net: NetName=r6r7RDb3 Pin=K2-2
+Removed Pin From Net: NetName=r6Q3 Pin=K2-3
+Removed Pin From Net: NetName=r7Q3 Pin=K2-4
+Removed Pin From Net: NetName=r7Q2 Pin=K2-5
+Removed Pin From Net: NetName=r6Q2 Pin=K2-6
+Removed Pin From Net: NetName=r6r7RDb2 Pin=K2-7
+Removed Pin From Net: NetName=r4r5RDb1 Pin=K3-2
+Removed Pin From Net: NetName=r4Q1 Pin=K3-3
+Removed Pin From Net: NetName=r5Q1 Pin=K3-4
+Removed Pin From Net: NetName=r5Q0 Pin=K3-5
+Removed Pin From Net: NetName=r4Q0 Pin=K3-6
+Removed Pin From Net: NetName=r4r5RDb0 Pin=K3-7
+Removed Pin From Net: NetName=r4r5RDb3 Pin=K4-2
+Removed Pin From Net: NetName=r4Q3 Pin=K4-3
+Removed Pin From Net: NetName=r5Q3 Pin=K4-4
+Removed Pin From Net: NetName=r5Q2 Pin=K4-5
+Removed Pin From Net: NetName=r4Q2 Pin=K4-6
+Removed Pin From Net: NetName=r4r5RDb2 Pin=K4-7
+Removed Pin From Net: NetName=r2r3RDb1 Pin=K5-2
+Removed Pin From Net: NetName=r2Q1 Pin=K5-3
+Removed Pin From Net: NetName=r3Q1 Pin=K5-4
+Removed Pin From Net: NetName=r3Q0 Pin=K5-5
+Removed Pin From Net: NetName=r2Q0 Pin=K5-6
+Removed Pin From Net: NetName=r2r3RDb0 Pin=K5-7
+Removed Pin From Net: NetName=r2r3RDb3 Pin=K6-2
+Removed Pin From Net: NetName=r2Q3 Pin=K6-3
+Removed Pin From Net: NetName=r3Q3 Pin=K6-4
+Removed Pin From Net: NetName=r3Q2 Pin=K6-5
+Removed Pin From Net: NetName=r2Q2 Pin=K6-6
+Removed Pin From Net: NetName=r2r3RDb2 Pin=K6-7
+Removed Pin From Net: NetName=r0r1RDb1 Pin=K7-2
+Removed Pin From Net: NetName=r0Q1 Pin=K7-3
+Removed Pin From Net: NetName=r1Q1 Pin=K7-4
+Removed Pin From Net: NetName=r1Q0 Pin=K7-5
+Removed Pin From Net: NetName=r0Q0 Pin=K7-6
+Removed Pin From Net: NetName=r0r1RDb0 Pin=K7-7
+Removed Pin From Net: NetName=r0r1RDb3 Pin=K8-2
+Removed Pin From Net: NetName=r0Q3 Pin=K8-3
+Removed Pin From Net: NetName=r1Q3 Pin=K8-4
+Removed Pin From Net: NetName=r1Q2 Pin=K8-5
+Removed Pin From Net: NetName=r0Q2 Pin=K8-6
+Removed Pin From Net: NetName=r0r1RDb2 Pin=K8-7
+Removed Pin From Net: NetName=r6r7RDt1 Pin=K9-2
+Removed Pin From Net: NetName=r6Q1 Pin=K9-3
+Removed Pin From Net: NetName=r7Q1 Pin=K9-4
+Removed Pin From Net: NetName=r7Q0 Pin=K9-5
+Removed Pin From Net: NetName=r6Q0 Pin=K9-6
+Removed Pin From Net: NetName=r6r7RDt0 Pin=K9-7
+Removed Pin From Net: NetName=r6r7RDt3 Pin=K10-2
+Removed Pin From Net: NetName=r6Q3 Pin=K10-3
+Removed Pin From Net: NetName=r7Q3 Pin=K10-4
+Removed Pin From Net: NetName=r7Q2 Pin=K10-5
+Removed Pin From Net: NetName=r6Q2 Pin=K10-6
+Removed Pin From Net: NetName=r6r7RDt2 Pin=K10-7
+Removed Pin From Net: NetName=r4r5RDt1 Pin=K11-2
+Removed Pin From Net: NetName=r4Q1 Pin=K11-3
+Removed Pin From Net: NetName=r5Q1 Pin=K11-4
+Removed Pin From Net: NetName=r5Q0 Pin=K11-5
+Removed Pin From Net: NetName=r4Q0 Pin=K11-6
+Removed Pin From Net: NetName=r4r5RDt0 Pin=K11-7
+Removed Pin From Net: NetName=r4r5RDt3 Pin=K12-2
+Removed Pin From Net: NetName=r4Q3 Pin=K12-3
+Removed Pin From Net: NetName=r5Q3 Pin=K12-4
+Removed Pin From Net: NetName=r5Q2 Pin=K12-5
+Removed Pin From Net: NetName=r4Q2 Pin=K12-6
+Removed Pin From Net: NetName=r4r5RDt2 Pin=K12-7
+Removed Pin From Net: NetName=r2r3RDt1 Pin=K13-2
+Removed Pin From Net: NetName=r2Q1 Pin=K13-3
+Removed Pin From Net: NetName=r3Q1 Pin=K13-4
+Removed Pin From Net: NetName=r3Q0 Pin=K13-5
+Removed Pin From Net: NetName=r2Q0 Pin=K13-6
+Removed Pin From Net: NetName=r2r3RDt0 Pin=K13-7
+Removed Pin From Net: NetName=r2r3RDt3 Pin=K14-2
+Removed Pin From Net: NetName=r2Q3 Pin=K14-3
+Removed Pin From Net: NetName=r3Q3 Pin=K14-4
+Removed Pin From Net: NetName=r3Q2 Pin=K14-5
+Removed Pin From Net: NetName=r2Q2 Pin=K14-6
+Removed Pin From Net: NetName=r2r3RDt2 Pin=K14-7
+Removed Pin From Net: NetName=r0r1RDt1 Pin=K15-2
+Removed Pin From Net: NetName=r0Q1 Pin=K15-3
+Removed Pin From Net: NetName=r1Q1 Pin=K15-4
+Removed Pin From Net: NetName=r1Q0 Pin=K15-5
+Removed Pin From Net: NetName=r0Q0 Pin=K15-6
+Removed Pin From Net: NetName=r0r1RDt0 Pin=K15-7
+Removed Pin From Net: NetName=r0r1RDt3 Pin=K16-2
+Removed Pin From Net: NetName=r0Q3 Pin=K16-3
+Removed Pin From Net: NetName=r1Q3 Pin=K16-4
+Removed Pin From Net: NetName=r1Q2 Pin=K16-5
+Removed Pin From Net: NetName=r0Q2 Pin=K16-6
+Removed Pin From Net: NetName=r0r1RDt2 Pin=K16-7
+Added Pin To Net: NetName=r6r7RDb0 Pin=K1-2
+Added Pin To Net: NetName=r6Q0 Pin=K1-3
+Added Pin To Net: NetName=r7Q0 Pin=K1-4
+Added Pin To Net: NetName=r7Q1 Pin=K1-5
+Added Pin To Net: NetName=r6Q1 Pin=K1-6
+Added Pin To Net: NetName=r6r7RDb1 Pin=K1-7
+Added Pin To Net: NetName=r6r7RDb2 Pin=K2-2
+Added Pin To Net: NetName=r6Q2 Pin=K2-3
+Added Pin To Net: NetName=r7Q2 Pin=K2-4
+Added Pin To Net: NetName=r7Q3 Pin=K2-5
+Added Pin To Net: NetName=r6Q3 Pin=K2-6
+Added Pin To Net: NetName=r6r7RDb3 Pin=K2-7
+Added Pin To Net: NetName=r4r5RDb0 Pin=K3-2
+Added Pin To Net: NetName=r4Q0 Pin=K3-3
+Added Pin To Net: NetName=r5Q0 Pin=K3-4
+Added Pin To Net: NetName=r5Q1 Pin=K3-5
+Added Pin To Net: NetName=r4Q1 Pin=K3-6
+Added Pin To Net: NetName=r4r5RDb1 Pin=K3-7
+Added Pin To Net: NetName=r4r5RDb2 Pin=K4-2
+Added Pin To Net: NetName=r4Q2 Pin=K4-3
+Added Pin To Net: NetName=r5Q2 Pin=K4-4
+Added Pin To Net: NetName=r5Q3 Pin=K4-5
+Added Pin To Net: NetName=r4Q3 Pin=K4-6
+Added Pin To Net: NetName=r4r5RDb3 Pin=K4-7
+Added Pin To Net: NetName=r2r3RDb0 Pin=K5-2
+Added Pin To Net: NetName=r2Q0 Pin=K5-3
+Added Pin To Net: NetName=r3Q0 Pin=K5-4
+Added Pin To Net: NetName=r3Q1 Pin=K5-5
+Added Pin To Net: NetName=r2Q1 Pin=K5-6
+Added Pin To Net: NetName=r2r3RDb1 Pin=K5-7
+Added Pin To Net: NetName=r2r3RDb2 Pin=K6-2
+Added Pin To Net: NetName=r2Q2 Pin=K6-3
+Added Pin To Net: NetName=r3Q2 Pin=K6-4
+Added Pin To Net: NetName=r3Q3 Pin=K6-5
+Added Pin To Net: NetName=r2Q3 Pin=K6-6
+Added Pin To Net: NetName=r2r3RDb3 Pin=K6-7
+Added Pin To Net: NetName=r0r1RDb0 Pin=K7-2
+Added Pin To Net: NetName=r0Q0 Pin=K7-3
+Added Pin To Net: NetName=r1Q0 Pin=K7-4
+Added Pin To Net: NetName=r1Q1 Pin=K7-5
+Added Pin To Net: NetName=r0Q1 Pin=K7-6
+Added Pin To Net: NetName=r0r1RDb1 Pin=K7-7
+Added Pin To Net: NetName=r0r1RDb2 Pin=K8-2
+Added Pin To Net: NetName=r0Q2 Pin=K8-3
+Added Pin To Net: NetName=r1Q2 Pin=K8-4
+Added Pin To Net: NetName=r1Q3 Pin=K8-5
+Added Pin To Net: NetName=r0Q3 Pin=K8-6
+Added Pin To Net: NetName=r0r1RDb3 Pin=K8-7
+Added Pin To Net: NetName=r6r7RDt0 Pin=K9-2
+Added Pin To Net: NetName=r6Q0 Pin=K9-3
+Added Pin To Net: NetName=r7Q0 Pin=K9-4
+Added Pin To Net: NetName=r7Q1 Pin=K9-5
+Added Pin To Net: NetName=r6Q1 Pin=K9-6
+Added Pin To Net: NetName=r6r7RDt1 Pin=K9-7
+Added Pin To Net: NetName=r6r7RDt2 Pin=K10-2
+Added Pin To Net: NetName=r6Q2 Pin=K10-3
+Added Pin To Net: NetName=r7Q2 Pin=K10-4
+Added Pin To Net: NetName=r7Q3 Pin=K10-5
+Added Pin To Net: NetName=r6Q3 Pin=K10-6
+Added Pin To Net: NetName=r6r7RDt3 Pin=K10-7
+Added Pin To Net: NetName=r4r5RDt0 Pin=K11-2
+Added Pin To Net: NetName=r4Q0 Pin=K11-3
+Added Pin To Net: NetName=r5Q0 Pin=K11-4
+Added Pin To Net: NetName=r5Q1 Pin=K11-5
+Added Pin To Net: NetName=r4Q1 Pin=K11-6
+Added Pin To Net: NetName=r4r5RDt1 Pin=K11-7
+Added Pin To Net: NetName=r4r5RDt2 Pin=K12-2
+Added Pin To Net: NetName=r4Q2 Pin=K12-3
+Added Pin To Net: NetName=r5Q2 Pin=K12-4
+Added Pin To Net: NetName=r5Q3 Pin=K12-5
+Added Pin To Net: NetName=r4Q3 Pin=K12-6
+Added Pin To Net: NetName=r4r5RDt3 Pin=K12-7
+Added Pin To Net: NetName=r2r3RDt0 Pin=K13-2
+Added Pin To Net: NetName=r2Q0 Pin=K13-3
+Added Pin To Net: NetName=r3Q0 Pin=K13-4
+Added Pin To Net: NetName=r3Q1 Pin=K13-5
+Added Pin To Net: NetName=r2Q1 Pin=K13-6
+Added Pin To Net: NetName=r2r3RDt1 Pin=K13-7
+Added Pin To Net: NetName=r2r3RDt2 Pin=K14-2
+Added Pin To Net: NetName=r2Q2 Pin=K14-3
+Added Pin To Net: NetName=r3Q2 Pin=K14-4
+Added Pin To Net: NetName=r3Q3 Pin=K14-5
+Added Pin To Net: NetName=r2Q3 Pin=K14-6
+Added Pin To Net: NetName=r2r3RDt3 Pin=K14-7
+Added Pin To Net: NetName=r0r1RDt0 Pin=K15-2
+Added Pin To Net: NetName=r0Q0 Pin=K15-3
+Added Pin To Net: NetName=r1Q0 Pin=K15-4
+Added Pin To Net: NetName=r1Q1 Pin=K15-5
+Added Pin To Net: NetName=r0Q1 Pin=K15-6
+Added Pin To Net: NetName=r0r1RDt1 Pin=K15-7
+Added Pin To Net: NetName=r0r1RDt2 Pin=K16-2
+Added Pin To Net: NetName=r0Q2 Pin=K16-3
+Added Pin To Net: NetName=r1Q2 Pin=K16-4
+Added Pin To Net: NetName=r1Q3 Pin=K16-5
+Added Pin To Net: NetName=r0Q3 Pin=K16-6
+Added Pin To Net: NetName=r0r1RDt3 Pin=K16-7
+Added Member To Class: ClassName=U_4bitMux21 Member=Component D1 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux21 Member=Component D2 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux22 Member=Component D3 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux22 Member=Component D4 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux23 Member=Component D5 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux23 Member=Component D6 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux24 Member=Component D7 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux24 Member=Component D8 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux25 Member=Component D9 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux25 Member=Component D10 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux26 Member=Component D11 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux26 Member=Component D12 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux27 Member=Component D13 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux27 Member=Component D14 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux28 Member=Component D15 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux28 Member=Component D16 (D) SMAJ24A
+Added Member To Class: ClassName=U_4bitMux21 Member=Component K1 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux21 Member=Component K2 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux22 Member=Component K3 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux22 Member=Component K4 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux23 Member=Component K5 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux23 Member=Component K6 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux24 Member=Component K7 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux24 Member=Component K8 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux25 Member=Component K9 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux25 Member=Component K10 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux26 Member=Component K11 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux26 Member=Component K12 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux27 Member=Component K13 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux27 Member=Component K14 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux28 Member=Component K15 (K) J104D2C24VDC.15S
+Added Member To Class: ClassName=U_4bitMux28 Member=Component K16 (K) J104D2C24VDC.15S
