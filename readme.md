@@ -34,6 +34,12 @@ Board Connector 20pos 2row rectangular connector [61202021621](https://www.digik
 Cable assembly housing keyed [61202023021](https://www.digikey.ca/en/products/detail/w%C3%BCrth-elektronik/61202023021/2060600)  
 Ribbon cable 20 wire 28AWG stranded [3365/20 300](https://www.digikey.ca/en/products/detail/3m/3365-20-300/1107221) or 30AWG solid [3749/20 300](https://www.digikey.ca/en/products/detail/3m/3749-20-300/22532463)
 
+From Amazon:
+General 20pos connector [here](https://www.amazon.ca/MECCANIXITY-Ribbon-2-54mm-Connector-Displays/dp/B0DQCVXGWG/ref=sr_1_1_sspa)
+
+### Power Supply
+Also avalible on amazon [here](https://www.amazon.ca/dp/B0C4YGWZQQ/ref=sspa_dk_detail_4?)
+
 ### Board Spacers 
 Hex 25mm female to female M3 threaded spacer [24438](https://www.digikey.ca/en/products/detail/keystone-electronics/24438/1532170)
 
