@@ -100,10 +100,10 @@ Hex 25mm female to female M3 threaded spacer [24438](https://www.digikey.ca/en/p
 | 1000           | kkkk       | kkkk          | JMP: PC ← PC + k + 1 |
 | 1001           | dddd       | kkkk          | LDI: Rd ← K
 | 1010           | 0000       | 0000          | XOR: Rd ← Rd x Rr |
-| 1011           | dddd       | rrrr          | MOV: Rd ← Rr
+| 1011           | dddd       | rrrr          | XNOR: Rd ← Rd xn Rr
 | 1100           | dddd       | kkkk          | BRGE: PC ← PC + k + 1 if Rd >= R1 |
 | 1101           | dddd       | kkkk          | BREQ: PC ← PC + k + 1 if Rd == R1 |
-| 1110           | 0000       | 0000          | Not Defined
+| 1110           | dddd       | kkkk          | MOV: Rd ← Rr
 | 1111           | 0000       | 0000          | Not Defined
 
 
@@ -141,6 +141,18 @@ Along with a big MUX to then select which opcode line we are at based on the Pro
 
 ## Registers
 
+### 4-Bit Reg Board
+
+**INPUTS:**
+- 4-bit A1 (Address 1)
+- 4-bit A2 (Address 2)
+- 4-bit WD (Write Data)
+- 1-bit WE (Write Enable)
+
+**OUTPUTS:**
+- 4-bit RD1 (Read Data 1)
+- 4-bit RD2 (Read Data 2)
+
 **Typically:** a NAND based solution is used given normal people use the CMOS structure, however... NAND and NOR requires lots of relays 
 ![D Flip Flop](./pics/Dflipflop-Master-Slave-edge-triggered-1.png)
 *D Flip Flop NAND Based Circuit* [Source](https://www.build-electronic-circuits.com/d-flip-flop/)
@@ -161,6 +173,9 @@ Final relay implementation will follow this gate layout
 
 ![Final Relay implementation for D-flip-flip](./pics/FullFlipFlopImplementation_schematic.jpg)
 
+
+### MUX Boards
+
 **Read Topology:**
 ![Addressable Read Register](./pics/Addressable_register_read_mux.jpg)
 *Addressable Read Register* [Source](https://en.wikipedia.org/wiki/Hardware_register)
@@ -170,6 +185,9 @@ by using cascading 4-bit MUX2s we can accomplish a full MUX8, one for each possi
 ![Addressable Write Register](./pics/Addressable_register_write.jpg)
 *Addressable Write Register* [Source](https://en.wikipedia.org/wiki/Hardware_register)
 To create the decoder the only 3-input gate we can use is the XOR-AND gate so optimizing with that:
+
+
+
 
 2&3&7, 24
 5&1&7, 50
