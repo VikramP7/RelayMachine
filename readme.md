@@ -139,21 +139,31 @@ Rough Plan is to use a bunch of dipswitches to manual program in each line of OP
 Along with a big MUX to then select which opcode line we are at based on the Program counter (PC)
 
 
-## Registers
-
-### 4-Bit Reg Board
+## Random Access Memory (RAM)
 
 **INPUTS:**
 - 4-bit A1 (Address 1)
 - 4-bit A2 (Address 2)
 - 4-bit WD (Write Data)
 - 1-bit WE (Write Enable)
+- 1-bit CLK (Global Clock)
 
 **OUTPUTS:**
 - 4-bit RD1 (Read Data 1)
 - 4-bit RD2 (Read Data 2)
 
-**Typically:** a NAND based solution is used given normal people use the CMOS structure, however... NAND and NOR requires lots of relays 
+### 4-Bit Register Board
+
+**INPUTS:**
+- 4-bit D (Write Data)
+- 1-bit LD (Load Data Enable)
+- 1-bit CLK (Global Clock)
+
+**OUTPUTS:**
+- 4-bit Q (Stored Data)
+
+
+**Typically:** a NAND based solution is used, given normal people use the CMOS structure, however... NAND and NOR requires lots of relays 
 ![D Flip Flop](./pics/Dflipflop-Master-Slave-edge-triggered-1.png)
 *D Flip Flop NAND Based Circuit* [Source](https://www.build-electronic-circuits.com/d-flip-flop/)
 
@@ -161,20 +171,35 @@ or an alternative structure could be the NOR version
 ![NOR Based Flip Flop](./pics/d-transparent-latch-nor.png)
 *D Latch NOR Based Circuit* [Source](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 
-This non NAND/NOR based SR latch wil be used to reduce the number of relays 
+This non AND/OR based SR latch wil be used to reduce the number of relays 
 
 ![AND-OR SR Latch](./pics/RS-and-or-flip-flop.png)
 
 *AND-OR SR Latch Circuit* [Very Good Source](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 
 
-Final relay implementation will follow this gate layout
+Final D-Flip-Flop relay implementation will follow this gate structure
 ![Final Relay compatible implementation](./pics/FullFlipFlopImplementation.jpg)
 
 ![Final Relay implementation for D-flip-flip](./pics/FullFlipFlopImplementation_schematic.jpg)
 
 
-### MUX Boards
+### 4 REG MUX Boards
+
+**INPUTS:**
+- 4 x 4-bit Q (Register Group's Stored Data)
+- 2-bit At (Sub-Address 1 or top)
+- 2-bit Ab (Sub-Address 2 or bottom)
+- 4-bit WD (Write Data)
+- 1-bit WE (Write Enable)
+- 1-bit CLK (Global Clock)
+
+**OUTPUTS:**
+- 4 x 4-bit D (Register Group'sWrite Data)
+- 1-bit LD (Load Data Enable)
+- 1-bit CLK (Global Clock)
+- 4-bit RDt (Read Data 1 or top)
+- 4-bit RDb (Read Data 2 or bottom)
 
 **Read Topology:**
 ![Addressable Read Register](./pics/Addressable_register_read_mux.jpg)
